@@ -1,0 +1,31 @@
+.ButtonModel1{
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    padding: 10px 15px ; 
+    border: none; 
+    transition: all 0.2s; 
+    border: 1px solid rgba(157, 167, 173, 0.489); 
+
+}
+
+.ButtonModel1:hover{
+    box-shadow: 5px 5px 5px rgb(216, 216, 216);
+    border: 1px solid rgba(123, 150, 166, 0.489); 
+    margin-top: 18px; 
+}
+
+
+.ButtonModel1Blue{
+    width: 100%; 
+    background-color: #04315e; 
+    color: rgb(174, 235, 246); 
+    text-align: left; 
+    font-weight: 700; 
+    font-size: 14px; 
+}
+
+.ButtonModel1Red {
+    background-color: rgb(165, 12, 12); 
+    color: #fff; 
+    font-weight: 700; 
+}

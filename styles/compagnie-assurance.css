@@ -1,0 +1,14 @@
+.mainImageHeader {
+    min-height: 250px; 
+}
+
+.mainImageHeaderPage2 {
+    background-image: url('/small-assurance-emprunteur-immobilier.webp'); 
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+.Page2MainContent {
+    padding: 40px; 
+}

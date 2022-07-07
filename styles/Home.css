@@ -1,0 +1,279 @@
+
+.navbarMobile{
+    height: 60px; 
+    width: 100%;
+    display: flex; 
+    flex-direction: row; 
+    box-shadow: 0px 0px 10px rgb(198, 198, 198);
+    background-color: #fff; 
+    transition: all 0.1s;
+    overflow: hidden; 
+}
+
+.headerMobile{
+    position: sticky; 
+    top: 0; 
+}
+
+.navbarButtonContainerMobile{
+    min-width: 60px; 
+    border-right: 1px solid rgb(202, 202, 202); 
+}
+
+.burgerIconMobile {
+    color: rgb(114, 114, 114); 
+    font-size: 30px; 
+}
+
+.buttonNavbarMobile{
+    width: 100%; 
+    height: 100%; 
+    background-color: transparent; 
+    outline: none; 
+    border: none; 
+}
+
+.mobileNavbarPartTwo {
+    width: 100%; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center; 
+}
+.navbarLogoContainerMobile{
+    width: 100%; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+.sectionMainImageMobile {
+    min-height: 320px; 
+    background-image: url('/assurance-emprunteur-accueil.webp'); 
+    background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    display: flex; 
+    align-items: flex-end; 
+    padding: 0 0 20px 20px; 
+}
+
+.insideTextPartOneMobile {
+    font-size: 40px; 
+    color: #fff; 
+    text-shadow: 2px 2px 2px  #000;
+}
+
+.insideTextPartTwotMobile{
+    font-weight: 900; 
+    font-size: 40px;
+    color: rgb(230, 100, 0); 
+    text-shadow: 2px 2px 2px  #000;
+}
+
+.itemsContainerMobile {
+    display: flex; 
+    flex-direction: row; 
+    height: 60px;
+    border-bottom:1px solid rgb(198, 198, 198); 
+}
+
+.itemMobile{
+    min-width: 15%; 
+    border-right: 1px solid rgb(198, 198, 198); 
+    background-color: #fff; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+}   
+
+.itemMobileText {
+    width: 100%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    background-color:#1F4C79; 
+    font-weight: 600; 
+    font-size: 14px; 
+}
+.itemMobileTextPara {
+    text-align: center; 
+    color: #fff; 
+}
+
+.simpleTextMobile {
+    text-align: center; 
+    margin: 50px 0;
+    padding: 0px 30px;  
+}
+
+.simpleTextMobileH2{
+    font-weight: 100; 
+    font-size: 38px; 
+    margin-bottom: 10px; 
+    line-height: 50px; 
+    color: #213e68; 
+}
+.simpleTextParagraphe{
+    line-height: 25px; 
+    font-weight: 600; 
+    font-size: 14px; 
+    color: rgb(76, 76, 76); 
+}
+
+/* THEME SECTION */
+
+.themeSectionMobile {
+    background-color: #00254D; 
+    color: rgb(202, 239, 254); 
+    padding: 10px  20px; 
+}
+
+.oneThemeRowMobile {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+}
+
+.themeIconMobile {
+    font-size: 60px; 
+    font-weight: 200; 
+    margin-right: 15px; 
+}
+
+.themeTitleMobile {
+    font-weight: 900; 
+    font-size: 18px; 
+}
+
+.themeArrowMobile {
+    font-size: 30px; 
+}
+
+
+/* ARTICLE CONTAINER */
+.articleContainerMobile {
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+    padding: 0 30px; 
+}
+.titleAndIconArticleContainerMobile {
+    display: flex; 
+    align-items: center; 
+    color: #00254D; 
+    margin-bottom: 10px; 
+}
+
+.articleParagrapheMobile {
+    margin-bottom: 30px; 
+    font-size: 14px; 
+    font-weight: 500; 
+    line-height: 25px; 
+}
+
+/* ADVERTISE SECTION */
+.advertiseContainerMobile {
+    background-color: #1F4C79; 
+    padding: 50px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+}
+.advertiseTitleMobile{
+    color: #fff; 
+    font-size: 50px; 
+}
+
+.advertiseButtonMobile{
+    width: 150px; 
+    padding: 10px; 
+    margin-top: 30px; 
+    border-radius: 4px; 
+    border: none; 
+    background-color:rgb(173, 215, 255); 
+    color: #1F4C79; 
+    font-weight: 900; 
+}
+
+/* FOOTER */
+.footerMobile {
+    background-color: #00254D; 
+    color: rgb(202, 239, 254); 
+    padding: 30px; 
+}
+
+.footerUlMobile {
+    list-style-type: none; 
+}
+
+.footerLinkAndArrow{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    margin-bottom: 20px; 
+}
+
+.footerLinkContainerMobile {
+    font-weight: 600; 
+    font-size: 20px; 
+}
+
+.footerLinkArrowMobile {
+    font-size: 30px; 
+}
+
+.socialFooterContainerMobile {
+    display: flex; 
+}
+
+.socialIconFooterMobile {
+    min-height: 50px; 
+    min-width: 50px; 
+    margin-right: 20px; 
+    background-position: center; 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+}
+
+.facebookIconFooter {
+    background-image: url('/facebook.png'); 
+}
+
+.linkedinIconFooter {
+    background-image: url('/linkedin.png'); 
+}
+
+.instagramIconFooter {
+    background-image: url('/instagram.png'); 
+}
+
+/* MOBILE MENU */
+.mobileMenu {
+    display: none; 
+    z-index: 100; 
+    position: fixed; 
+    top: 61px; 
+    width: 100%; 
+    min-height: 100vh; 
+    background-color: rgba(22, 34, 68, 0.95); 
+    
+}
+.mobileMenuDisplay {
+    display: block; 
+}
+.oneMobileMenuItem {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(202, 202, 202); 
+    background-color: #fff; 
+    padding: 20px 20px 20px 60px; 
+}
+.itemMenuTitleMobile{
+    font-size: 18px; 
+    font-weight: 500; 
+}
+

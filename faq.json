@@ -1,0 +1,2089 @@
+[
+  {
+    "type": "table",
+    "name": "faq",
+    "database": "assurancqlpret",
+    "data": [
+      {
+        "idfaq": "1",
+        "question": "amortissable",
+        "commentaire": "<h3>\r\n\tQu&#39;est ce qu&#39;un pr&ecirc;t amortissable ?</h3>\r\n",
+        "email": "seb@seb.com",
+        "reponse": "<p>\r\n\tC&#39;est un pr&ecirc;t ou l&#39;on rembourse le capital et en m&ecirc;me temps que les int&eacute;r&ecirc;ts</p>\r\n",
+        "priorite": "1",
+        "online": "1",
+        "date": "2010-05-14"
+      },
+      {
+        "idfaq": "2",
+        "question": "étapes",
+        "commentaire": "<h3>\r\n\tQuelles sont les &eacute;tapes lors de la souscription de l&#39;assurance emprunteur ?</h3>\r\n",
+        "email": "contact@assurance-de-pret-pas-cher.com",
+        "reponse": "<p>\r\n\tSi <strong>L&#39;emprunteur </strong>rempli la <strong>demande d&#39;adh&eacute;sion</strong>,&nbsp;le client re&ccedil;oit dans la journ&eacute;e un <strong>certificat d&#39;assurance</strong>* &agrave; remettre au <strong>banquier </strong>pour l&#39;&eacute;dition des <strong>offres de pr&ecirc;t</strong>.&nbsp;</p>\r\n<p>\r\n\t*Si <strong>l&#39;emprunteur </strong>r&eacute;pond OUI &agrave; une des questions du <strong>Questionnaire de sant&eacute;</strong> alors la compagnie r&eacute;clame des informations compl&eacute;mentaires par rapport &agrave; ce qu il a d&eacute;clar&eacute; <br />\r\n\tensuite 4 choix possibles :</p>\r\n<ol>\r\n\t<li>\r\n\t\tAssurance emprunteur au tarif nomal,</li>\r\n\t<li>\r\n\t\tAssurance emprunteur avec&nbsp;exclusion,</li>\r\n\t<li>\r\n\t\tAssurance emprunteur avec&nbsp;exclusion et majoration,</li>\r\n\t<li>\r\n\t\tRefus&nbsp;Assurance emprunteur&nbsp;</li>\r\n</ol>\r\n<p>\r\n\t*Si <strong>le capital exc&egrave;de 230.000 &euro;&nbsp;</strong>alors des formalit&eacute;s <strong>m&eacute;dicales </strong>sont obligatoire (analyses de sang...). Ensuite apr&egrave;s &eacute;tude&nbsp;4 choix possibles&nbsp;;</p>\r\n<ol>\r\n\t<li>\r\n\t\tAssurance emprunteur au tarif nomal,&nbsp;</li>\r\n\t<li>\r\n\t\tAssurance emprunteur avec&nbsp;exclusion,&nbsp;</li>\r\n\t<li>\r\n\t\tAssurance emprunteur avec&nbsp;exclusion et majoration,&nbsp;</li>\r\n\t<li>\r\n\t\tRefus&nbsp;Assurance emprunteur&nbsp;</li>\r\n</ol>\r\n",
+        "priorite": "2",
+        "online": "1",
+        "date": "2010-05-14"
+      },
+      {
+        "idfaq": "3",
+        "question": "hypotheque",
+        "commentaire": "<h3>\r\n\tQu&#39;est ce qu&#39;un pret hypoth&eacute;caire ?</h3>\r\n",
+        "email": "",
+        "reponse": "<p>\r\n\tC&#39;est un <strong>pr&ecirc;t </strong>consenti gr&acirc;ce &agrave; <strong>l&#39;hypotheque </strong>d&#39;un bien <strong>immobilier</strong></p>\r\n",
+        "priorite": "3",
+        "online": "1",
+        "date": "2010-05-14"
+      },
+      {
+        "idfaq": "4",
+        "question": "premium",
+        "commentaire": "<h3>\r\n\tComment faire une souscription au contrat PREMIUM emprunteur ?</h3>\r\n",
+        "email": "famille.proust@yahoo.fr",
+        "reponse": "<p>\r\n\tVous pouvez contacter un <strong>sp&eacute;cialiste assurance emprunteur</strong> au&nbsp;<strong>04 78 80 88 29 !</strong></p>\r\n<p>\r\n\tIl &eacute;tudiera avec vous selon votre <strong>profil </strong>la <strong>compagnie d&#39;assurance la moins ch&egrave;re</strong> avec les <strong>garanties emprunteurs</strong> que vous souhaitez ...</p>\r\n",
+        "priorite": "4",
+        "online": "1",
+        "date": "2010-05-17"
+      },
+      {
+        "idfaq": "5",
+        "question": "conso",
+        "commentaire": "<h3>\r\n\tQu&#39;est ce qu&#39;un pr&ecirc;t &agrave; la consommation ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tun pret consommation consiste a financer l&#39;achat d&#39;un bateau, d&#39;une voiture, ....</p>\r\n",
+        "priorite": "5",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "6",
+        "question": "relais",
+        "commentaire": "<h3>\r\n\tQu&#39;est ce qu&#39;un pr&ecirc;t relais ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tC&#39;est un pret d&#39;une courte dur&eacute;e ; maximum 24 mois. Il est rembours&eacute; suite &agrave; la vente de l&#39;ancien bien.</p>\r\n",
+        "priorite": "6",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "7",
+        "question": "servir",
+        "commentaire": "<h3>\r\n\tA quoi sert une assurance emprunteur ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tA couvrir la dette consentie par le banquier en cas de deces/ptia/ipt/itt mais aussi &agrave; couvrir les h&eacute;ritiers afin de ne pas leur laisse une cr&eacute;ance ou un passif dans l&#39;heritage.</p>\r\n",
+        "priorite": "7",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "8",
+        "question": "ptia",
+        "commentaire": "<h3>\r\n\tQue veut dire ptia ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\t<strong>Perte Totale Irr&eacute;versible d&#39;Autonomie</strong> : On est invalide &agrave; 100% maus aussi assiter d une tuierce personne pour appliquer les actes quotidien de la vie. Elle est jug&eacute;e par la s&eacute;curit&eacute; sociale.</p>\r\n",
+        "priorite": "8",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "9",
+        "question": "itt",
+        "commentaire": "<h3>\r\n\tQue veut dire itt ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\t<strong>Interruption Temporaire de Travail</strong> : on est en arret de travail suite &agrave; accident ou maladie et ce sans etre invalide. L&#39;assurance indemnise la banque &agrave; partir de 90 jours et selon la quotit&eacute; contract&eacute;e.</p>\r\n",
+        "priorite": "9",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "10",
+        "question": "ipt",
+        "commentaire": "<h3>\r\n\tQue veut dire ipt ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\t<strong>Invalide Partielle Totale</strong> : Invalide &agrave; moins de 100%. Notre assurance indemnise &agrave; partir de 66%</p>\r\n",
+        "priorite": "10",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "11",
+        "question": "adherent",
+        "commentaire": "<h3>\r\n\tDans quel cas y a t il un adh&eacute;rent lors de la demande d&#39;adh&eacute;sion ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tLorsque c&#39;est une soci&eacute;t&eacute; qui emprunte (Sarl, Sci, ...). La cotisation est d&eacute;ductible, elle passe en frais g&eacute;n&eacute;raux dans la comptabilit&eacute; de la soci&eacute;t&eacute; ce qui augmente les charges mais diminue l&#39;imp&ocirc;t car d&eacute;ductible.</p>\r\n",
+        "priorite": "11",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "12",
+        "question": "senior",
+        "commentaire": "<h3>\r\n\tQuel est le cout de l&#39;option senior et comment s&#39;applique t il ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tL&#39;option senior coute 5% du Capital Restant D&ucirc; (CRD) du 75eme anniversaire et s&#39;applique &agrave; partir de 75 ans. Les 5% ne sont pas &agrave; ajouter au cout initial. Elle reste toujours fixe jusqu &agrave; la fin de l&#39;emprunt.</p>\r\n",
+        "priorite": "12",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "13",
+        "question": "option",
+        "commentaire": "<h3>\r\n\tDans quel cas faut il conseiller la souscription de l&#39;option senior ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tLorsque le <strong>pr&ecirc;t </strong>va au-del&agrave; des 75 ans de <strong>l&#39;emprunteur</strong>.</p>\r\n",
+        "priorite": "13",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "14",
+        "question": "beneficiaire",
+        "commentaire": "<h3>\r\n\tUn personne physique peut elle &ecirc;tre le b&eacute;n&eacute;ficiaire de l&#39;assurance emprunteur ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tOui, &agrave; condition qu&#39;un acte officiel ait &eacute;t&eacute; notifi&eacute; chez le notaire sinon c&#39;est forc&eacute;ment une banque</p>\r\n",
+        "priorite": "14",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "15",
+        "question": "garanties",
+        "commentaire": "<h3>\r\n\tA quelle date les garanties prennent elles effet ?</h3>\r\n",
+        "email": "assurancedepretpascher@gmail.com",
+        "reponse": "<p>\r\n\tA l&#39;acceptation des offres de pr&ecirc;t et non au d&eacute;blocage des fonds ; cette date est <strong>IRREVOCABLE </strong>lorsque le client la notifi&eacute; dans la demande d&#39;adh&eacute;sion!</p>\r\n",
+        "priorite": "15",
+        "online": "1",
+        "date": "2010-05-18"
+      },
+      {
+        "idfaq": "19",
+        "question": "trop chere",
+        "commentaire": "<h3>\r\n\tPour un pr&ecirc;t (garantie hypoth&egrave;que) de 42000 &euro;, nous avons une assurance-cr&eacute;dit (mon mari 68 ans paie plus de 240 euros et moi 64 ans 16 &euro;</h3>\r\n",
+        "email": "jeanclaudesicard@free.fr",
+        "reponse": "<p>\r\n\tNous pouvons trouver une solution assurance de pret pour tous les types d&#39;emprunteurs. Contactez un conseiller pour &eacute;tablir un devis assurance de pret</p>\r\n",
+        "priorite": "17",
+        "online": "1",
+        "date": "2010-06-04"
+      },
+      {
+        "idfaq": "20",
+        "question": "maladie",
+        "commentaire": "<p>\r\n\tje suis fonctionnaire actuellement en longue maladie pour &eacute;loignement de mon lieu de travail dans l&#39;attente de ma mutation je n&#39;ai aucune patholopie ni traitement m&eacute;dicamenteux&nbsp;puis je pr&eacute;tendre a une assurance adi pour mes prets</p>\r\n",
+        "email": "rambaud.phil@hotmail.fr",
+        "reponse": "<p>\r\n\tnous assurons tout type de pathologie, contactez nous pour une etude par une compagnie specialis&eacute;e</p>\r\n",
+        "priorite": "18",
+        "online": "1",
+        "date": "2010-06-26"
+      },
+      {
+        "idfaq": "21",
+        "question": "credit agricole",
+        "commentaire": "<p>\r\n\tEtant en maladie grave depuis le mois de mars 2009 mon emprunt est bien pris en charge a partir du 90 jours par la cnp aujourd hui le medecin conseil veut me mettre en invalidit&eacute; de 2 ieme categorie comment faut il faire et que fournir et quels sont mes droits</p>\r\n",
+        "email": "jeanichrist@aol.com",
+        "reponse": "<p>\r\n\tAvec une invalidit&eacute; 2eme cat&eacute;gorie soit 66%, normalement vous devriez &ecirc;tre pris en charge par la cnp. Avant de signer tout accord, assurez vous que vous serez bien indemnisez et dans le cas contraire vous pourrez contester.</p>\r\n",
+        "priorite": "19",
+        "online": "1",
+        "date": "2010-07-05"
+      },
+      {
+        "idfaq": "22",
+        "question": "post-partum",
+        "commentaire": "<p>\r\n\tpendant la vie commune avec la m&egrave;re de mon fils, cette derni&egrave;re est tomb&eacute;e en d&eacute;pression post-partum et s&#39;est livr&eacute;e &agrave; de multiples achats, puis a sombr&eacute; dans un chomage, etc... situation tr&egrave;s difficile financi&egrave;rement, nous avons donc fait appel a une soci&egrave;t&eacute; de rachat de cr&eacute;dit pour allonger mon cr&eacute;dit auto et demander une somme d&#39;argent pour voir plus clair dans nos comptes.&nbsp;nos sommes co-emprunteurs de ce cr&eacute;dit, la somme a &eacute;t&eacute; vir&eacute;e sur mon compte, je paye mensuellement son remboursement a cet organisme.<br />\r\n\t<br />\r\n\tj&#39;ai vir&eacute; une partie de cette somme vers celui de mon ex-compagne.Celle-ci me versait mensuellement son du.&nbsp;maintenant que nous sommes s&eacute;par&eacute;s, apr&egrave;s 1 an, elle arr&ecirc;te de me faire le virement alors qu&#39;il lui reste 2ans &agrave; payer.&nbsp;Elle ne me r&eacute;pond pas et je ne sais pas quoi faire !&nbsp;Pour info // j&#39;ai la garde de mon fils et elle a un dvh.&nbsp;elle est co-signataire/empruntrice du cr&eacute;dit et je souhaite connaitre mes recours possibles svp.</p>\r\n",
+        "email": "adnot-stephane@wanadoo.fr",
+        "reponse": "<p>\r\n\t<a href=\\\"http://www.assurance-emprunteur.com/emprunteur-hors-norme/risque-aggrave-de-sante/emprunteur-risque-sante-depression.html\\\" title=\\\"depression post partum\\\">risque depression li&eacute; a l&#39;assurance emprunteur</a></p>\r\n<p>\r\n\tElle est responsable &agrave; 50/50 donc doit participer au remboursement de la dette. En cas de refus, vous pouvez d&eacute;duire de la pension que vous lui versez la partie repr&eacute;sentant le montant du pr&ecirc;t. Sinon ce sera le tribunal qui tranchera avec saisie sur salaire.</p>\r\n",
+        "priorite": "20",
+        "online": "1",
+        "date": "2010-07-06"
+      },
+      {
+        "idfaq": "23",
+        "question": "surpoids",
+        "commentaire": "<h3>\r\n\tBonjour, je suis sur le point de finaliser un credit immobilier avec mon conjoint. nous avons 28 ans. je viens de recevoir un questionnaire m&eacute;dicale a cause de mon surpoids. est ce que nous risquons de nous voir refuser le credit ? il n&#39;y a aucun soucis de sant&eacute; de part et autres. </h3>\r\n",
+        "email": "myrilor@aol.com",
+        "reponse": "<p>\r\n\tRefuser le cr&eacute;dit ? non !!! mais il est possible que votre cotisation d&#39;assurance soit augment&eacute;e et cela &quot;&agrave; cause&quot; de votre surcharge pond&eacute;rale.</p>\r\n<p>\r\n\tSachez que nous pouvons trouver une assurance pour votre pret la moins chere possible pour garantir le financement malgr&eacute; ce probl&egrave;me de surpoids</p>\r\n",
+        "priorite": "21",
+        "online": "1",
+        "date": "2010-07-07"
+      },
+      {
+        "idfaq": "24",
+        "question": "greffe rein",
+        "commentaire": "<h3>\r\n\tBonjour je suis greff&eacute;e de rein je fait une demande un pr&ecirc;t immo mais j&#39;attends la r&eacute;ponse de l&#39;assurance et j&#39;aimerais savoir les tarifs qui se pratique pour cette maladie et les delai de reponse</h3>\r\n",
+        "email": "Has_95@msn.com",
+        "reponse": "<p>\r\n\tD&egrave;s lors que vous renseignez un questionnaire m&eacute;dical, il appartient au m&eacute;decin de la compagnie, pour respecter le secret m&eacute;dical, de statuer au cas par cas, il est donc difficile de vous donner un prix. La plupart du temps la compagnie applique une surprime a son tarif &quot;normal&quot;, sinon c&#39;est une exclusion de votre pathologie, ou le refus. Pour d&eacute;lai de r&eacute;ponse, cela d&eacute;pend &eacute;galement de la compagnie choisie, mais il faut compter entre 1 et 2 semaines ...</p>\r\n<p>\r\n\tVous pouvez contacter un conseiller au&nbsp;<strong>04 78 80 88 29 </strong>afin de r&eacute;aliser une etude pour votre dossier assurance de pr&ecirc;t.</p>\r\n",
+        "priorite": "22",
+        "online": "1",
+        "date": "2010-07-18"
+      },
+      {
+        "idfaq": "26",
+        "question": "hippothèque",
+        "commentaire": "<p>\r\n\tje voudrai faire un pr&ecirc;t immobilier de 200000 euros en premi&egrave;re hippoth&egrave;que mon bien qui est &eacute;valu&eacute; a 800000 &euro; remboursable en 15 ans JE voudrai faire une assurance d&eacute;c&eacute;s sur une t&ecirc;te merci de me contacter</p>\r\n",
+        "email": "sarlavantage@hotmail.fr",
+        "reponse": "<p>\r\n\tun conseiller en assurance de pret va vous contacter pour assurer un emprunt hypothecaire moins cher que l&#39;etablissement preteur</p>\r\n",
+        "priorite": "24",
+        "online": "1",
+        "date": "2010-07-21"
+      },
+      {
+        "idfaq": "27",
+        "question": "credit-lcl",
+        "commentaire": "<p>\r\n\tJe cherche une assurance emprunt la plus compl&egrave;te possible pour un cr&eacute;dit au LCL, deces invalidit&eacute;, IPP, ITT, IPTIA &agrave; 100% sur 2 t&ecirc;tes. Nous avons 26 et 28 ans non fumeurs et nous sommes tous les 2 psychologues. Est-il possible d&#39;avoir le mi-temps th&eacute;rapeutique aussi. <br />\r\n\tQui me conseillez-vous ? En gros quel tarifs ?</p>\r\n",
+        "email": "pierredo1@hotmail.fr",
+        "reponse": "<p>\r\n\tPlusieurs &eacute;l&eacute;ments sont a prendre en compte pour <strong>l&#39;assurance de pret</strong>, essayer de joindre un de nos conseiller pour d&eacute;finir du meilleur tarif <a href=\\\"http://www.assurance-de-pret-pas-cher.com\\\" title=\\\"assurance pret immobilier\\\">assurance de pr&ecirc;t immobilier</a>.</p>\r\n",
+        "priorite": "25",
+        "online": "1",
+        "date": "2010-07-28"
+      },
+      {
+        "idfaq": "28",
+        "question": "depression",
+        "commentaire": "<p>\r\n\tLa depression du postPartum est-elle consider&eacute; comme une depression nerveuse? Qu&#39;elle est la reponse de l&#39;assureur dans ce cas? une assurance au tarif normal?</p>\r\n",
+        "email": "thamouathino@hotmail.com",
+        "reponse": "<p>\r\n\tChaque compagnies traite les pathologies diff&eacute;remment, nous sommes assureurs mais pas m&eacute;decin ; apr&egrave;s &eacute;tude de votre dossier une offre vous sera envoy&eacute;e que vous serez libre d&#39;accepter ou de refuser</p>\r\n",
+        "priorite": "26",
+        "online": "1",
+        "date": "2010-08-13"
+      },
+      {
+        "idfaq": "30",
+        "question": "spondylarthrite",
+        "commentaire": "<p>\r\n\tBonjour,&nbsp;Mon &eacute;poux a une spondylarthrite ankylosante &agrave; 38 ans et il a une majoration de 57% pour un achat immo alors qu&#39;il travail. Nous &eacute;sp&eacute;rions une visite m&eacute;dical afin que le m&eacute;decin constate qu&#39;il est en pleine forme. Sur quelle base ce % a t il &eacute;t&eacute; calcul&eacute; et y a t il des assurances plus &quot;compr&eacute;hensible&quot; ?</p>\r\n",
+        "email": "ememeline@9online.fr",
+        "reponse": "<p>\r\n\tNous travaillons avec des compagnies affili&eacute;e avec la convention aeras, nous arriverons surement a trouver une solution moins on&eacute;reuse ; contactez nous !!</p>\r\n",
+        "priorite": "28",
+        "online": "1",
+        "date": "2010-08-16"
+      },
+      {
+        "idfaq": "31",
+        "question": "handicap",
+        "commentaire": "<p>\r\n\tje suis 80% indicap&eacute; je veux acheter une maison je suis demander la banque pour credi immobileir mais la banque est accepter pas credi a cause de mon maladie</p>\r\n",
+        "email": "tatarmemet@sfr.fr",
+        "reponse": "<p>\r\n\tNous travaillons avec des compagnies affili&eacute;e par la convention Aeras ; contactez nous ! nous pr&eacute;senterons un dossier avec la meilleure compagnie selon votre profil. Apres les examens m&eacute;dicaux une proposition sera faite par la compagnie que vous serez libre d&#39;accepter ou de refuser.</p>\r\n",
+        "priorite": "29",
+        "online": "1",
+        "date": "2010-09-03"
+      },
+      {
+        "idfaq": "33",
+        "question": "hypertension+diabete",
+        "commentaire": "<p>\r\n\tMon emprunt (avec mon mari) est de 329000 euros sur 15 ans. La CNP assure mon mari (n&eacute; en 1949). Mais pour moi (n&eacute;e en 1950)la CNP me propose 987 euros par mois, je suis diab&eacute;tique de type 2 (diab&egrave;te d&eacute;couvert &agrave; cette occasion, mais traitement efficace. Evidemment je n&#39;&eacute;tais pas soign&eacute;e avant puisque je ne le savais pas. J&#39;avais de l&#39;hypertension (d&eacute;couverte aussi mais d&ucirc;e en grande partie au stress des soucis financiers) maintenant la tension est stabilis&eacute;e et ne monte jamais au dessus de 15 (en moyenne 13 &agrave; 14). Pouvez-vous me dire ce que vous pourriez me proposer. Merci</p>\r\n",
+        "email": "annie.raguin@ca-tourainepoitou.fr",
+        "reponse": "<p>\r\n\tcontactez nous pour &eacute;tudier une offre avec une compagnie sp&eacute;cialis&eacute;e que vous serez libre d&#39;accepter ou de refuser</p>\r\n",
+        "priorite": "31",
+        "online": "1",
+        "date": "2010-10-06"
+      },
+      {
+        "idfaq": "34",
+        "question": "avc",
+        "commentaire": "<p>\r\n\tnous devons faire un rachat de cr&eacute;dit, mais mon mari a fait deux AVC, comment faire pour l&#39;assurer au moinspour le d&eacute;c&egrave;s. A noter qu&#39;il a 65 ans.</p>\r\n",
+        "email": "monique.faye0925@orange.fr",
+        "reponse": "<p>\r\n\tIl faut multiplier les demandes de tarifs aupr&egrave;s de plusieurs compagnies car beaucoup refuseront de l&#39;assurer. Notre r&ocirc;le consistera &agrave; s&eacute;lectionner les compagnies sp&eacute;cialis&eacute;es afin de vous trouver la meilleure offre du march&eacute;.</p>\r\n",
+        "priorite": "32",
+        "online": "1",
+        "date": "2010-10-18"
+      },
+      {
+        "idfaq": "37",
+        "question": "ptia obligatoire",
+        "commentaire": "<p>\r\n\tlors d&#39;un pret de 210 000&euro; dans le cadre de la loi sellier et que l&#39;on est retrait&eacute; 62 ans + 3 000&euro; mensuel l&#39;assurance PTIA est-elle obligatoire ? Merci</p>\r\n",
+        "email": "nrj.rolland@wanadoo.fr",
+        "reponse": "<p>\r\n\toui la formule obligatoire : D&eacute;c&egrave;s + Ptia (Perte totale et irr&eacute;versible d&#39;Autonomie) est le plus souvent demand&eacute; par le banquier</p>\r\n",
+        "priorite": "35",
+        "online": "1",
+        "date": "2010-10-25"
+      },
+      {
+        "idfaq": "39",
+        "question": "questionnaire-sante",
+        "commentaire": "<p>\r\n\tUn assureur me dit - suite &agrave; un arr&ecirc;t de travail - que je &quot;ne pouvais pas certifier de la d&eacute;claration d&#39;&eacute;tat de sant&eacute;&quot; lorsque j&#39;ai contract&eacute; un cr&eacute;dit. Je suis certaine de bien avoir expos&eacute;, sans tricher, mon &eacute;tat de sant&eacute; (&acirc;ge-traitements en cours- poids). Comment r&eacute;cup&eacute;rer le questionnaire m&eacute;dical que j&#39;ai rempli &agrave; ce moment l&agrave; pour l&#39;assureur ?</p>\r\n",
+        "email": "lcfuchsia@aliceadsl.fr",
+        "reponse": "<p>\r\n\tdemander a votre banquier de vous retourner le questionnaire de sante par l&#39;interm&eacute;diaire de la compagnie d&#39;assurance</p>\r\n",
+        "priorite": "37",
+        "online": "1",
+        "date": "2010-11-07"
+      },
+      {
+        "idfaq": "40",
+        "question": "délégation d\\'assurance",
+        "commentaire": "<p>\r\n\tBonjour,<br />\r\n\tMa banque refuse la d&eacute;lagation d&#39;assurance bien que le contrat propos&eacute; apporte les m&ecirc;mes garanties que le contrat groupe de ma banque. Que dois-je faire?</p>\r\n",
+        "email": "vjacob@mieuxvivre.fr",
+        "reponse": "<p>\r\n\tm&ecirc;me si aujourd&#39;hui la loi lagarde vous prot&egrave;ge, le banquier n&#39;est pas menac&eacute; juridiquement s&#39;il ne respecte pas la loi ; votre seul recours est de lui mettre la pression, et de le menacer de partir de votre banque pour une offre qui accepte la d&eacute;l&eacute;gation d&#39;assurance, ne vous laissez pas faire car l&#39;&eacute;conomie r&eacute;alis&eacute;e sur l&#39;assurance peut &ecirc;tre importante</p>\r\n",
+        "priorite": "38",
+        "online": "1",
+        "date": "2010-11-12"
+      },
+      {
+        "idfaq": "41",
+        "question": "aeras",
+        "commentaire": "<p>\r\n\tBonjour, je souhaite avoir des renseignements sur l&#39;assurances emprunteur et la convention aeras</p>\r\n",
+        "email": "denisfredericdenis@wanadoo.fr",
+        "reponse": "<p>\r\n\tNos conseillers sont a votre disposition pour vous renseigner sur la <a href=\\\"http://www.assurance-emprunteur.com/assurance-emprunteurs/convention-aeras.html\\\" title=\\\"convention aeras\\\">convention aeras</a> et l&#39;<a href=\\\"http://www.assurance-emprunteur.com\\\" title=\\\"assurance emprunteur\\\">assurance emprunteur</a></p>\r\n",
+        "priorite": "39",
+        "online": "1",
+        "date": "2010-11-15"
+      },
+      {
+        "idfaq": "43",
+        "question": "equivalence",
+        "commentaire": "<p>\r\n\tJ ai fait un devis aupr&egrave;s d&#39; un assureur qui m exclue pour les sinistres cardiaques pour itt et ptia.<br />\r\n\tMais ma banque refuse cette exclusion . Est ce normal?</p>\r\n",
+        "email": "Sebastien.immo@gmail.com",
+        "reponse": "<p>\r\n\teffectivement, votre banquier peut demander une &eacute;quivalence de garantie par rapport a son offre, nos pouvons surement trouver une solution pour assurer votre pret immobilier avec nos nombreuses compagnies partenaires</p>\r\n",
+        "priorite": "41",
+        "online": "1",
+        "date": "2010-11-20"
+      },
+      {
+        "idfaq": "49",
+        "question": "attestation",
+        "commentaire": "<p>\r\n\tBonjour,la banque aupr&egrave;s de laquelle j&#39;emprunte (BNP) refuse de lib&eacute;rer le pr&ecirc;t au motif que l&#39;attestation de garantie d&eacute;livr&eacute;e par l&#39;assurance (GAN) a une dur&eacute;e limit&eacute;e &agrave; 3 mois. La situation est bloqu&eacute;e. Comment analysez-vous une telle situation?</p>\r\n",
+        "email": "bruno.verschuere@cogecord.com",
+        "reponse": "<p>\r\n\tUne attestation est toujours limit&eacute;e dans le temps. Il faut contacter le banquier et s&#39;arranger de fa&ccedil;on &agrave; na pas bloquer la situation</p>\r\n",
+        "priorite": "47",
+        "online": "1",
+        "date": "2010-11-30"
+      },
+      {
+        "idfaq": "51",
+        "question": "trop chere",
+        "commentaire": "<p>\r\n\tJe fais un emprunt au LCL. L&#39;assurance est de 0.42% l&#39;an.&nbsp;Puis-je prendre une assurance moins ch&egrave;re aupr&egrave;s d&#39;une autre banque &agrave; 0.26% par exemple ?</p>\r\n",
+        "email": "martine.rade@orange-ftgroup.com",
+        "reponse": "<p>\r\n\tOUi vous pouvez &agrave; condition d&#39;obtenir l accord du banquier. Vous auriez du souscrire votre contrat avant le d&eacute;blocage des fonds car le banquier peut vous refuser d&#39;aller ailleurs. La loi autorise la r&eacute;siliation sur tous les types de contrat d&#39;assurance mais vous devez respecter les conditions de r&eacute;siliation ; elles sont stipul&eacute;es dans les conditions g&eacute;n&eacute;rales.</p>\r\n<p>\r\n\ttout contrat d&#39;assurance est r&eacute;siliable ou n&eacute;gociable. Reportez vous aux conditions g&eacute;n&eacute;rales de votre contrat d&#39;assurance, si rien n&#39;est indiqu&eacute; vous pouvez changer d&#39;assurance emprunteur a date anniversaire du contrat en accord avec votre banquier.&nbsp;</p>\r\n",
+        "priorite": "49",
+        "online": "1",
+        "date": "2010-12-27"
+      },
+      {
+        "idfaq": "57",
+        "question": "saccef",
+        "commentaire": "<p>\r\n\tBonjour<br />\r\n\tfaites vous la caution saccef ?<br />\r\n\tcordialement</p>\r\n",
+        "email": "mateodelofredo@sfr.fr",
+        "reponse": "<p>\r\n\tNous ne faisons &quot;que&quot; de l&#39;assurance emprunteur, afin de garnaties les emprunteurs en cas de deces, invalidit&eacute; et meme chomage. Mais nous ne vendons pas de &quot;caution&quot; &nbsp;pour les projets immobilier</p>\r\n",
+        "priorite": "54",
+        "online": "1",
+        "date": "2011-01-23"
+      },
+      {
+        "idfaq": "74",
+        "question": "psy",
+        "commentaire": "<p>\r\n\tEst il possible d&#39;emprunter et de s&#39;assurer en emprunteur sans augmentation du taux d&#39;assurance chez CNP, Maif, Macif ou autre, lorsuqe l&#39;on est suivi par psy pour trouble anxieux</p>\r\n",
+        "email": "bobthebuilder2@hotmail.fr",
+        "reponse": "<p>\r\n\til est possible d&#39;assurer un pret sans surprime, avec une exclusion de la pathologie</p>",
+        "priorite": "62",
+        "online": "1",
+        "date": "2011-04-28"
+      },
+      {
+        "idfaq": "80",
+        "question": "maladie de crohn",
+        "commentaire": "<p>\r\n\tbonjour,<br />\r\n\tassurez-vous les personnes ayant une maladie de crohn, nous recherchons une assurance avec la clause ITT.</p>\r\n",
+        "email": "virgeroux@live.fr",
+        "reponse": "<p>\r\n\tnous assurons tous les emprunteurs, et cherchons des solutions pour garantir les emprunteurs &agrave; risques</p>\r\n<p>\r\n\tccontctez nous pour monter un dossier solide, afin de vous assurer avec la garantie itt, ipt</p>\r\n",
+        "priorite": "66",
+        "online": "1",
+        "date": "2011-05-24"
+      },
+      {
+        "idfaq": "96",
+        "question": "diabetique",
+        "commentaire": "<p>\r\n\tbonjour.&nbsp;j&#39;ai 28 ans et je suis diab&eacute;tique insulinod&eacute;pendante depuis l&#39;age de 8 ans.<br />\r\n\tj&#39;achete avec mon mari une maison. Viens alors le probleme de l&#39;assurance pour le pret.</p>\r\n",
+        "email": "clairevenerosy@hotmail.com",
+        "reponse": "<p>\r\n\t&nbsp;</p>\r\n<p>\r\n\t<strong>Est ce possible de s&#39;assurer chez vous ?&nbsp;<br />\r\n\t</strong>Nous assurons un grand nombre d&#39;emprunteur ayant ou ayant eu des problemes de sant&eacute;, comme le diabete, un cancer,... nous ne pouvons pas vous garantir de trouver une assurance car au final c&#39;est toujours le medecin de la compagnie vers laquelle nous allons vous orienter qui acceptera ou non de vous assurer</p>\r\n<p>\r\n\t<strong>Quelles sont les conditions?<br />\r\n\t</strong>Selon le type de votre pret, et votre profil emprunteur nous allons vous diriger vers la compagnie qui sera la plus &agrave; meme de vous assurer, avec les meilleures conditions et au meilleur tarif.</p>\r\n<p>\r\n\t<strong>Comment proc&eacute;der ?<br />\r\n\t</strong>Contactez nous, pour etablir une <a href=\\\"http://www.assurance-emprunteur.com\\\" title=\\\"demande assurance emprunteur\\\">demande assurance emprunteur</a> avec probleme de sant&eacute; type diabete</p>\r\n<p>\r\n\t<strong>Quels sont les d&eacute;lais de r&eacute;ponse ?<br />\r\n\t</strong>Environ 10 jours d&#39;attente des la reception du questionnaire medical, et de la demande d&#39;adhesion</p>\r\n",
+        "priorite": "78",
+        "online": "1",
+        "date": "2011-08-14"
+      },
+      {
+        "idfaq": "98",
+        "question": "emprunt sci",
+        "commentaire": "<p>\r\n\tbonjour,</p>\r\n<p>\r\n\tnous avons une SCI qui va emprunter une somme de 1 700 000 euros, pour l&#39;achat de murs.</p>\r\n<p>\r\n\tfaites vous des assurances emprunt pour ce type de montage ?</p>\r\n<p>\r\n\tmerci</p>\r\n",
+        "email": "luc@fleux.com",
+        "reponse": "<p>\r\n\tBonjour Monsieur, </p>\r\n<p>\r\n\tEffectivement nous pouvons <a href=\\\"http://www.assurance-de-pret-pas-cher.com\\\" title=\\\"assurer un pret\\\">assurer un pr&ecirc;t de 1 700 000 euros</a>. Vous pouvez nous contacter au 04 78 80 88 29 pour qu&#39;un conseiller puisse voir avec vous les modalit&eacute;s et le co&ucirc;t de l&#39;assurance ; et &eacute;tablir un comparatif des meilleures solution assurance emprunteur selon le type de pret et le profil de l&#39;emprunteur ....</p>\r\n",
+        "priorite": "79",
+        "online": "1",
+        "date": "2011-08-22"
+      },
+      {
+        "idfaq": "100",
+        "question": "ALIX",
+        "commentaire": "Bonjour,<br />\r\n<br />\r\nje me suis fait opéré du coeur il y a 21 ans pour une malformation de naissance (j\\'avais un trou au milieu du coeur) et il long bouché avec une pastille. c\\'st un CIA. j\\'ai 29 ans et depuis mon opération je vie normalement, aucun problème. J\\'ai fais une demande à la CNP pour l\\'assurance de ma future maison. Apriori je vais devoir passer une visite médicale. Comment cela se passe? Es-ce qu\\'il von m\\'assurer?",
+        "email": "alixjes@yahoo.fr",
+        "reponse": "",
+        "priorite": "80",
+        "online": "0",
+        "date": "2011-08-29"
+      },
+      {
+        "idfaq": "101",
+        "question": "Henrion S.",
+        "commentaire": "Bonjour,<br />\r\nJe viens de recevoir le retour de proposition de la CNP (via MGEN), <br />\r\nla prime passe de 0,28 à 0,56 !!!<br />\r\nAvec sous la garantie incapacité :<br />\r\n- Exclusion totale de la garantie sauf si elle résulte d\\'un accident corporel.<br />\r\nDans le questionnaire médical, j\\'ai stipulé que j\\'ai fait en 2007/2008 une dépression réactionnelle, avec fourniture d\\'un certificat qu\\'il s\\'agissait bien d\\'une origine réactionnelle liée à mon employeur de l\\'époque. Je précise qu\\'il n\\'y a pas eu d\\'hospitalisation et bien évidement aucune rechute...<br />\r\nQue puis je faire, l\\'on ne m\\'a pas donné de justifications, pas plus d\\'explication sur les garanties !!!<br />\r\n<br />\r\nBien cordialement<br />\r\nStéphane Henrion",
+        "email": "stephane.henrion@wanadoo.fr",
+        "reponse": "",
+        "priorite": "81",
+        "online": "0",
+        "date": "2011-08-29"
+      },
+      {
+        "idfaq": "102",
+        "question": "LE GOARANT",
+        "commentaire": "Bonjour,j\\'ai subi une menisectomie en 1998 et une ablation totale de la thyroide debut d\\'année et je suis en surchage pondérale.mon dossier risque t-il d\\'être refusé et quels recours je peux avoir?j\\'emprunte seule;merci",
+        "email": "v.legoarant@hotmail.fr",
+        "reponse": "",
+        "priorite": "82",
+        "online": "0",
+        "date": "2011-08-31"
+      },
+      {
+        "idfaq": "103",
+        "question": "",
+        "commentaire": "pour un prêt à la conso,la banque m\\'oblige à prendre l\\'assurance chez elle<br />\r\naccorde le prêt qu\\'à cette condition?",
+        "email": "sylviane.de-moraes@wanadoo.fr",
+        "reponse": "",
+        "priorite": "83",
+        "online": "0",
+        "date": "2011-09-08"
+      },
+      {
+        "idfaq": "104",
+        "question": "Manaia",
+        "commentaire": "Bonjour,<br />\r\nJ\\'ai un projet d\\'achat immobilier et je recherche une assurance. Je présente un \\\"risque agravé de santé\\\", pouvez-vous SVP m\\'envoyer un dossier d\\'étude pour mon assurance et qui rentrerait dans le cadre de la convention AERAS.<br />\r\n<br />\r\nMerci pour votre réponse.<br />\r\nCordialement.<br />\r\n<br />\r\nA.Manaia.<br />\r\n",
+        "email": "aldamanaia@yahoo.fr",
+        "reponse": "",
+        "priorite": "84",
+        "online": "0",
+        "date": "2011-09-13"
+      },
+      {
+        "idfaq": "105",
+        "question": "MAURY",
+        "commentaire": "Bonjour,<br />\r\n<br />\r\n <br />\r\n<br />\r\nNous (mon compagnon et moi-même) allons emprunter 140 000 euros (achat maison principal) La compagnie d\\'assurance vient d\\'adresser à mon compagnon (oeil aveugle suite à un accident il y a plus de 25 ans -  l\\'oeil sain ne pose aucun problème) une proposition :<br />\r\n<br />\r\n <br />\r\n<br />\r\nElle l\\'exclue de la garantie  incapacité temporaire et invalidité permanente pour \\\"les suites et conséquences de toutes affections optalmologiques\\\" <br />\r\n<br />\r\n <br />\r\n<br />\r\nAvez-vous une solution à nous proposer pour que cette exclusion soit prise en charge même partiellement ? Peut-on demander à la compagnie d’assurance une surprime ? Quelles sont les démarches à effectuer ?<br />\r\n<br />\r\n <br />\r\n<br />\r\nMerci<br />\r\n<br />\r\nCordialement<br />\r\n<br />\r\n <br />\r\n<br />\r\n",
+        "email": "RMaury@chu-grenoble.fr",
+        "reponse": "",
+        "priorite": "85",
+        "online": "0",
+        "date": "2011-09-21"
+      },
+      {
+        "idfaq": "106",
+        "question": "LIVET",
+        "commentaire": "DEVIS ASSURANCE DECES POUR RENEGOCIATION PRET IMMOBILIER MON MARIS EST DIABETIQUE ET MOI JE FAIS DE LA TENSION",
+        "email": "joelle.livet@wanadoo.fr",
+        "reponse": "",
+        "priorite": "86",
+        "online": "0",
+        "date": "2011-09-21"
+      },
+      {
+        "idfaq": "107",
+        "question": "Jacques Mariacci",
+        "commentaire": "J\\'ai obtenu un crédit immobilier avant la Loi Lagarde sur la liberté de choix de l\\'assurance emprunteur. Donc j\\'ai été obligé de prendre l\\'assurance prohibitive de ma banque. Puis je changer d \\'assurance en cours de contrat de prêt ?<br />\r\nMerci",
+        "email": "jacques.mariacci@gmail.com",
+        "reponse": "",
+        "priorite": "87",
+        "online": "0",
+        "date": "2011-09-28"
+      },
+      {
+        "idfaq": "108",
+        "question": "Alles",
+        "commentaire": "Bonjour, <br />\r\n<br />\r\nSuite à l\\'étude de mon dossier d\\'assurance de prêt, UGIP m\\'avait demandé d\\'accepter un contrat avec une exclusion sur les maladies en rapport avec la glande thyroïde.<br />\r\nJ\\'avais refusé et m\\'étais dirigé vers APRIL.<br />\r\nUGIP vient de m\\'envoyer un courrier me demandant le remboursement des examens médicaux réalisés dans leur centre CBSA. Est-ce que je dois rembourser les frais à UGIP malgré l\\'exclusion?  <br />\r\nMerci de votre réponse. <br />\r\n<br />\r\n",
+        "email": "dsarah@club.fr",
+        "reponse": "",
+        "priorite": "88",
+        "online": "0",
+        "date": "2011-10-04"
+      },
+      {
+        "idfaq": "109",
+        "question": "maruejols",
+        "commentaire": "bonjours, <br />\r\nje suis medecin cardiologue non fumeur sans aucun probleme de santé..... je souhaite assurer mon pret immobilier (217000 euro). Cependant, je pratique les sport de montagne (alpinisme, escalade, canyon....) ainsi que de maniere occasionel la plongé...<br />\r\npouvez vous me faire un devis???",
+        "email": "benmaruejols@hotmail.com",
+        "reponse": "",
+        "priorite": "89",
+        "online": "0",
+        "date": "2011-10-04"
+      },
+      {
+        "idfaq": "110",
+        "question": "LEVIER",
+        "commentaire": "bonjour je suis à la recherche d\\'une assurance pour un prêt immobilier avec ma compagne, je suis atteint de myopathie amyotrophie infantile type II, quelle assurance me conseillez vous?",
+        "email": "kharynne.tophe@hotmail.fr",
+        "reponse": "",
+        "priorite": "90",
+        "online": "0",
+        "date": "2011-10-05"
+      },
+      {
+        "idfaq": "111",
+        "question": "m\\'barga",
+        "commentaire": "j\\'ai un prêt immobilier et je voudrais savoir s\\'il est possible de changer d\\'assurance emprunteur car trop chère et s\\'i est obligé d\\'avoir une assurance emprunteur pour le prêt à taux zéro",
+        "email": "odile.mbarga@yahoo.fr",
+        "reponse": "",
+        "priorite": "91",
+        "online": "0",
+        "date": "2011-10-14"
+      },
+      {
+        "idfaq": "112",
+        "question": "charles Meyer",
+        "commentaire": "pour un pret avec hyp assurance la -cher ou caution solidaire. ",
+        "email": "charlesmeyer@laposte.net",
+        "reponse": "",
+        "priorite": "92",
+        "online": "0",
+        "date": "2011-10-16"
+      },
+      {
+        "idfaq": "113",
+        "question": "laurens",
+        "commentaire": " j\\'aurais 75 ans l\\'annee prochaine. suis-je assuré au dela pour un pret auto",
+        "email": "laurens.jean@orange.fr",
+        "reponse": "",
+        "priorite": "93",
+        "online": "0",
+        "date": "2011-10-18"
+      },
+      {
+        "idfaq": "114",
+        "question": "farrugia",
+        "commentaire": "j ai un emprunt de pret immobilier de la bfm je suis prise en charge par l assurance car je suis en longue maladie depuis bientot 3ans il et question de me mettre en retraite pour invalidité aurais je le droit de la prise en charge toujours par mon assurance de se pret merci",
+        "email": "farrugiaeric@hotmail.fr",
+        "reponse": "",
+        "priorite": "94",
+        "online": "0",
+        "date": "2011-10-20"
+      },
+      {
+        "idfaq": "115",
+        "question": "hourcade",
+        "commentaire": "homme 55ans cholesterol maitrise par traitement 13.7 avec traitement assurance emprunteur ???",
+        "email": "jeandom@neuf.fr",
+        "reponse": "",
+        "priorite": "95",
+        "online": "0",
+        "date": "2011-10-20"
+      },
+      {
+        "idfaq": "116",
+        "question": "Claudine DEVYNCK",
+        "commentaire": "notre compromis de vente est signé. Il faut absolument une assurance emprunteur pour mon mari Philippe Bataille mais il est diabetique non insilino dépendant (type 2). Je vais finir par croire qu\\'il est anormal mais on peut vivre centenaire avec du diabète. Le prêt principal est de 15700 € et l\\'autre à taux zéro) de 13000 €.Ma demande est très urgente. Merci",
+        "email": "claudine.devynck@ensc-lille.fr",
+        "reponse": "",
+        "priorite": "96",
+        "online": "0",
+        "date": "2011-10-25"
+      },
+      {
+        "idfaq": "117",
+        "question": "Prediger",
+        "commentaire": "bonjour ,<br />\r\n<br />\r\non m a diagnostiqué une SLA sclérose latérale amyothrophique en 2010 à 50 ans, je souhaite emprunter 200k€ en commun avec mon épouse pour effectuer un investissement locatif Scellier avant fin 2011, nos revenus annuels nets sont env. de 110k€, <br />\r\nquels sont vos conseils pour pouvoir disposer de ce prêt et d un niveau d assurance raisonnable avec cette pathologie ? <br />\r\nMerci de votre retour et de considérer notre échange strictement confidentiel svp.<br />\r\nCordialement",
+        "email": "claude.prediger@sfr.fr",
+        "reponse": "",
+        "priorite": "97",
+        "online": "0",
+        "date": "2011-10-28"
+      },
+      {
+        "idfaq": "118",
+        "question": "m\\'barga ",
+        "commentaire": "je voudrais changer assurance emprunteur,est il possible car je l\\'ai souscrite depuis décembre 2010 pour l\\'achat  de mon appartement ,merci de me répondre par courriel ou par tél 06.27.20.78.19",
+        "email": "odile.mbarga@yahoo.fr",
+        "reponse": "",
+        "priorite": "98",
+        "online": "0",
+        "date": "2011-10-29"
+      },
+      {
+        "idfaq": "119",
+        "question": "marot",
+        "commentaire": "faut il remplire un quaitionaire medicale pour assurer un co emprinteur",
+        "email": "marot_2@hotmail.fr",
+        "reponse": "",
+        "priorite": "99",
+        "online": "0",
+        "date": "2011-11-03"
+      },
+      {
+        "idfaq": "120",
+        "question": "http://puklxhakoqlc.com/",
+        "commentaire": "TEueuA  <a href=\\\"http://iuxsjexcreqf.com/\\\">iuxsjexcreqf</a>, [url=http://lkjdpiewzdfx.com/]lkjdpiewzdfx[/url], [link=http://drrrpefzosmq.com/]drrrpefzosmq[/link], http://yhpgrrdsrfny.com/",
+        "email": "slldbw@jufyqs.com",
+        "reponse": "",
+        "priorite": "100",
+        "online": "0",
+        "date": "2011-11-05"
+      },
+      {
+        "idfaq": "121",
+        "question": "http://puklxhakoqlc.com/",
+        "commentaire": "TEueuA  <a href=\\\"http://iuxsjexcreqf.com/\\\">iuxsjexcreqf</a>, [url=http://lkjdpiewzdfx.com/]lkjdpiewzdfx[/url], [link=http://drrrpefzosmq.com/]drrrpefzosmq[/link], http://yhpgrrdsrfny.com/",
+        "email": "slldbw@jufyqs.com",
+        "reponse": "",
+        "priorite": "101",
+        "online": "0",
+        "date": "2011-11-05"
+      },
+      {
+        "idfaq": "122",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "102",
+        "online": "0",
+        "date": "2011-11-05"
+      },
+      {
+        "idfaq": "123",
+        "question": "demangeat",
+        "commentaire": "bonjour je voudrait avoir un numero detelephone pour regler par carte banquaire mercis",
+        "email": "thierry.demangeat@orange.fr",
+        "reponse": "",
+        "priorite": "103",
+        "online": "0",
+        "date": "2011-11-06"
+      },
+      {
+        "idfaq": "124",
+        "question": "cabe",
+        "commentaire": "bjr<br />\r\nj\\'ai un de mes amis qui vient de se suicider. Il avait contracté il ya 6 ans un pret immobilier avec l\\'assurance sur chaque partie pour l\\'achat d\\'une maison locative<br />\r\nSon épouse pourra t elle beneficier de l\\'assurance contractée par ce prêt. Le suicide est il une cause d\\'exclusion, il y a t il un texte qui legifere dans le code des assurances l\\'acte de suicide ",
+        "email": "pimmkb@yahoo.fr",
+        "reponse": "",
+        "priorite": "104",
+        "online": "0",
+        "date": "2011-11-06"
+      },
+      {
+        "idfaq": "125",
+        "question": "M. Yannis BABOU",
+        "commentaire": "Nous avons besoin, ma femme et moi, d\\'une assurance emprunteur pr un crédit immobilier. Faites vous des contrats pr des résidents de l\\'ile de la Réunion ? Si tel est le cas, pouvez-vous m\\'appeler pr un devis SVP.<br />\r\ntél. : 0692 58 59 46",
+        "email": "yannis.babou@yahoo.fr",
+        "reponse": "",
+        "priorite": "105",
+        "online": "0",
+        "date": "2011-11-07"
+      },
+      {
+        "idfaq": "126",
+        "question": "MEYER",
+        "commentaire": "Le co-emprunteur a été soigné pour un cancer du sein il y a 5 ans, sommes nous dans le cadre d\\'un risque aggravé ?",
+        "email": "bntq.meyer@free.fr",
+        "reponse": "",
+        "priorite": "106",
+        "online": "0",
+        "date": "2011-11-08"
+      },
+      {
+        "idfaq": "127",
+        "question": "ANDRIANALISON HANDRY",
+        "commentaire": "Bonjour,je voudrais savoir qu\\'est ce que c\\'est un credit emprunteur et pour quel type de personne ou d\\'activité on doit le souscrir? merçi de votre collaboration?Handry",
+        "email": "michaelandrianalison@yahoo.com",
+        "reponse": "",
+        "priorite": "107",
+        "online": "0",
+        "date": "2011-11-10"
+      },
+      {
+        "idfaq": "128",
+        "question": "cwLymDLrPH",
+        "commentaire": "shnx9R  <a href=\\\"http://gpzysuccbiyg.com/\\\">gpzysuccbiyg</a>, [url=http://ssalribhslab.com/]ssalribhslab[/url], [link=http://rlmdcvxmypna.com/]rlmdcvxmypna[/link], http://zgetnmjsckby.com/",
+        "email": "cqpgmk@nimkde.com",
+        "reponse": "",
+        "priorite": "108",
+        "online": "0",
+        "date": "2011-11-11"
+      },
+      {
+        "idfaq": "129",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "109",
+        "online": "0",
+        "date": "2011-11-11"
+      },
+      {
+        "idfaq": "130",
+        "question": "",
+        "commentaire": "Bonjour,<br />\r\n<br />\r\nNous avons une demande de pret en cours et ma compagne a reçu de la part de l\\'assureur emprunteur un accord pour la clause décés mais un ajournement pour la clause de garantie d\\'incapacité de travail. Ma compagne est actuellement enciente et en arret de travail (en raison du trajet trop important en voiture à faire) Est ce bloquant pour le crédit, quelles sont les conséquences ?",
+        "email": "vincent_capogna@yahoo.fr",
+        "reponse": "",
+        "priorite": "110",
+        "online": "0",
+        "date": "2011-11-17"
+      },
+      {
+        "idfaq": "131",
+        "question": "schipman ",
+        "commentaire": "2 credits immo en cours 2005 et 2009 upres de LCL . Refus de delegation . Comment proceder ?",
+        "email": "jschipman@gmail.com",
+        "reponse": "",
+        "priorite": "111",
+        "online": "0",
+        "date": "2011-11-29"
+      },
+      {
+        "idfaq": "132",
+        "question": "camus",
+        "commentaire": "bonjour assurez vous en risque agravé pour l\\'achat de fond de commerce? merci",
+        "email": "franck.creims@free.fr",
+        "reponse": "",
+        "priorite": "112",
+        "online": "0",
+        "date": "2011-12-01"
+      },
+      {
+        "idfaq": "133",
+        "question": "egshgbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.doiqnjukzx.com\\\">lwlnyhixgx</a> , [url=http://www.ewthizzhci.com]eebkejudcz[/url], http://www.gavwnfzwlw.com lwlnyhixgx",
+        "commentaire": "egshgbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.doiqnjukzx.com\\\">lwlnyhixgx</a> , [url=http://www.ewthizzhci.com]eebkejudcz[/url], http://www.gavwnfzwlw.com lwlnyhixgx",
+        "email": "znxvpamxdf@zcmkvm.com",
+        "reponse": "",
+        "priorite": "113",
+        "online": "0",
+        "date": "2011-12-02"
+      },
+      {
+        "idfaq": "134",
+        "question": "mwktzbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ymfkrhwhwh.com\\\">vzkytxepax</a> , [url=http://www.ycwsnppvox.com]ibgojxuzlf[/url], http://www.wtomqlismw.com vzkytxepax",
+        "commentaire": "mwktzbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ymfkrhwhwh.com\\\">vzkytxepax</a> , [url=http://www.ycwsnppvox.com]ibgojxuzlf[/url], http://www.wtomqlismw.com vzkytxepax",
+        "email": "nkryhovwpx@xrvzsj.com",
+        "reponse": "",
+        "priorite": "114",
+        "online": "0",
+        "date": "2011-12-02"
+      },
+      {
+        "idfaq": "135",
+        "question": "mjubybttvsbodf.fnqsvoufvs, <a href=\\\"http://www.fwyguqqjeq.com\\\">pndfrvsrsf</a> ",
+        "commentaire": "mjubybttvsbodf.fnqsvoufvs, <a href=\\\"http://www.fwyguqqjeq.com\\\">pndfrvsrsf</a> ",
+        "email": "qnurqjlhbb@sufkvq.com",
+        "reponse": "",
+        "priorite": "115",
+        "online": "0",
+        "date": "2011-12-02"
+      },
+      {
+        "idfaq": "136",
+        "question": "lxavdbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.vgeotsthfh.com\\\">pccxznprcb</a> ",
+        "commentaire": "lxavdbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.vgeotsthfh.com\\\">pccxznprcb</a> ",
+        "email": "ihcyjxkfav@cgldyf.com",
+        "reponse": "",
+        "priorite": "116",
+        "online": "0",
+        "date": "2011-12-03"
+      },
+      {
+        "idfaq": "137",
+        "question": "sgmyvbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.orjzoetvpe.com\\\">ehwjfbjfxe</a> ",
+        "commentaire": "sgmyvbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.orjzoetvpe.com\\\">ehwjfbjfxe</a> ",
+        "email": "xmolauybxx@arysai.com",
+        "reponse": "",
+        "priorite": "117",
+        "online": "0",
+        "date": "2011-12-03"
+      },
+      {
+        "idfaq": "138",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "118",
+        "online": "0",
+        "date": "2011-12-03"
+      },
+      {
+        "idfaq": "139",
+        "question": "kzyezbttvsbodf.fnqsvoufvs, http://www.xgxwfucgef.com ewjpyjsncy ",
+        "commentaire": "kzyezbttvsbodf.fnqsvoufvs, http://www.xgxwfucgef.com ewjpyjsncy ",
+        "email": "bptuiwuior@gxejoe.com",
+        "reponse": "",
+        "priorite": "119",
+        "online": "0",
+        "date": "2011-12-03"
+      },
+      {
+        "idfaq": "140",
+        "question": "rtxalbttvsbodf.fnqsvoufvs, [url=http://www.exlxcxvvhb.com]xzmjmpnyyj[/url] ",
+        "commentaire": "rtxalbttvsbodf.fnqsvoufvs, [url=http://www.exlxcxvvhb.com]xzmjmpnyyj[/url] ",
+        "email": "dyddpxptgj@csaixq.com",
+        "reponse": "",
+        "priorite": "120",
+        "online": "0",
+        "date": "2011-12-03"
+      },
+      {
+        "idfaq": "141",
+        "question": "ermclbttvsbodf.fnqsvoufvs, [url=http://www.jlqidckhvy.com]efhuzkvgnx[/url] ",
+        "commentaire": "ermclbttvsbodf.fnqsvoufvs, [url=http://www.jlqidckhvy.com]efhuzkvgnx[/url] ",
+        "email": "nujpfxxvmb@ovmjlm.com",
+        "reponse": "",
+        "priorite": "121",
+        "online": "0",
+        "date": "2011-12-03"
+      },
+      {
+        "idfaq": "142",
+        "question": "Kacha",
+        "commentaire": "Monsieur,<br />\r\nEtant fonctionnaire, m\\'est-il nécessaire de souscrire à l\\'assurance ITT (Incapacité Temporaire totale de travail supérieure à 90j) dans le cadre de mon pret immobilier?",
+        "email": "mathieukacha@gmail.com",
+        "reponse": "",
+        "priorite": "122",
+        "online": "0",
+        "date": "2011-12-08"
+      },
+      {
+        "idfaq": "143",
+        "question": "DUPONT",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "123",
+        "online": "0",
+        "date": "2011-12-15"
+      },
+      {
+        "idfaq": "144",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "124",
+        "online": "0",
+        "date": "2011-12-15"
+      },
+      {
+        "idfaq": "145",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "125",
+        "online": "0",
+        "date": "2011-12-18"
+      },
+      {
+        "idfaq": "146",
+        "question": "aocjbbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.nguhmqvhzy.com\\\">pljtksibwq</a> , [url=http://www.cjluebtzwd.com]hanibwaxgb[/url], http://www.fscjybgxar.com pljtksibwq",
+        "commentaire": "aocjbbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.nguhmqvhzy.com\\\">pljtksibwq</a> , [url=http://www.cjluebtzwd.com]hanibwaxgb[/url], http://www.fscjybgxar.com pljtksibwq",
+        "email": "qyqzqqudzf@lzfdtx.com",
+        "reponse": "",
+        "priorite": "126",
+        "online": "0",
+        "date": "2011-12-27"
+      },
+      {
+        "idfaq": "147",
+        "question": "lznmmbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.yhppqjyixb.com\\\">thizesujpb</a> , [url=http://www.rcnggnbfbc.com]bkvborhhuv[/url], http://www.xidsgbcyvz.com thizesujpb",
+        "commentaire": "lznmmbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.yhppqjyixb.com\\\">thizesujpb</a> , [url=http://www.rcnggnbfbc.com]bkvborhhuv[/url], http://www.xidsgbcyvz.com thizesujpb",
+        "email": "udsvexhldi@eobhzz.com",
+        "reponse": "",
+        "priorite": "127",
+        "online": "0",
+        "date": "2011-12-27"
+      },
+      {
+        "idfaq": "148",
+        "question": "gqjjfbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.plbhszyugq.com\\\">hjgorujohp</a> , [url=http://www.tspixsdorm.com]llgpvzeucz[/url], http://www.bruqhhiyzq.com hjgorujohp",
+        "commentaire": "gqjjfbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.plbhszyugq.com\\\">hjgorujohp</a> , [url=http://www.tspixsdorm.com]llgpvzeucz[/url], http://www.bruqhhiyzq.com hjgorujohp",
+        "email": "dcnppdntcs@ywozux.com",
+        "reponse": "",
+        "priorite": "128",
+        "online": "0",
+        "date": "2011-12-27"
+      },
+      {
+        "idfaq": "149",
+        "question": "mwncibttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xkgtvwiphw.com\\\">uplvzjwytu</a> , [url=http://www.vndhtallup.com]ipczigbndg[/url], http://www.qyonasbhmk.com uplvzjwytu",
+        "commentaire": "mwncibttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xkgtvwiphw.com\\\">uplvzjwytu</a> , [url=http://www.vndhtallup.com]ipczigbndg[/url], http://www.qyonasbhmk.com uplvzjwytu",
+        "email": "psgmhblyif@iaerqb.com",
+        "reponse": "",
+        "priorite": "129",
+        "online": "0",
+        "date": "2011-12-27"
+      },
+      {
+        "idfaq": "150",
+        "question": "pascal",
+        "commentaire": "les frais de résiliation assurance emprunteur s\\'élèvent a combien ?",
+        "email": "pascal.soniaetantoine@neuf.fr",
+        "reponse": "",
+        "priorite": "130",
+        "online": "0",
+        "date": "2011-12-27"
+      },
+      {
+        "idfaq": "151",
+        "question": "wmcerbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.nhcotncjau.com\\\">xcakbducfq</a> ",
+        "commentaire": "wmcerbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.nhcotncjau.com\\\">xcakbducfq</a> ",
+        "email": "xhekcmupiw@wpoheq.com",
+        "reponse": "",
+        "priorite": "131",
+        "online": "0",
+        "date": "2011-12-27"
+      },
+      {
+        "idfaq": "152",
+        "question": "hykgqbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.bhapqrplna.com\\\">vzzahrxigr</a> ",
+        "commentaire": "hykgqbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.bhapqrplna.com\\\">vzzahrxigr</a> ",
+        "email": "eprniwcosw@ktzfvh.com",
+        "reponse": "",
+        "priorite": "132",
+        "online": "0",
+        "date": "2011-12-27"
+      },
+      {
+        "idfaq": "153",
+        "question": "ncvefbttvsbodf.fnqsvoufvs, http://www.pwzrhanupk.com aistqbseec ",
+        "commentaire": "ncvefbttvsbodf.fnqsvoufvs, http://www.pwzrhanupk.com aistqbseec ",
+        "email": "dmocixribn@hqajfk.com",
+        "reponse": "",
+        "priorite": "133",
+        "online": "0",
+        "date": "2011-12-28"
+      },
+      {
+        "idfaq": "154",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "134",
+        "online": "0",
+        "date": "2011-12-30"
+      },
+      {
+        "idfaq": "155",
+        "question": "emma",
+        "commentaire": "bonjour, <br />\r\n<br />\r\nen 2005 nous avons changé de banque et eu un taux d\\'intérêt moindre pour notre prêt immo commencé en 1999 dans une autre banque. Du coup, les mensualités d\\'assurances des prêts(MGEN)ont aussi baissé car le nouveau prêt était moitié de l\\'ancien. Mais en fait on n\\'y a rien gagné car en 2005 la MGEN m\\'a imposé une assurance chômage obligatoire en plus de l\\'assurance invalidité décès, pour mon conjoint qui n\\'est pas fonctionnaire. Or j\\'apprends par mon banquier aujourd\\'hui, qu\\'avec la loi Lagarde, je peux faire cesser l\\'assurance chômage dont je n\\'ai jamais voulu, étant donné que le travail de mon mari est très sûr. Est-ce vrai ? ",
+        "email": "emma.nauert@free.fr",
+        "reponse": "",
+        "priorite": "135",
+        "online": "0",
+        "date": "2012-01-07"
+      },
+      {
+        "idfaq": "156",
+        "question": "bernard",
+        "commentaire": "Bonjour,<br />\r\nAfin de favoriser notre référencement, nous recherchons des partenaires pour échange de liens <br />\r\n triangulaires.<br />\r\nNous vous proposons de placer le lien suivant : <a title=\\\"mutuelle senior\\\"   href=\\\"http://www.la-mutuelle-senior.fr\\\">mutuelle senior</a> sur la première page de votre site. <br />\r\nEn retour de quoi j\\'insèrerais un lien vers votre site à l\\'adresse http://www.mutuelle-et-senior.fr ,<br />\r\nSi vous êtes d\\'accord pour l\\'échange, merci de m\\'envoyer le lien retour à insérer sur notre site. Dans l\\'attente de vous lire,<br />\r\nCordialement<br />\r\n <br />\r\nwebmaster@sinader.com<br />\r\n",
+        "email": " webmaster@sinader.com",
+        "reponse": "",
+        "priorite": "136",
+        "online": "0",
+        "date": "2012-01-09"
+      },
+      {
+        "idfaq": "157",
+        "question": "BOURBIA",
+        "commentaire": "bonjour,j\\'emprunte 40000€ a ma banque qui me demande ue hipothéque sur mon bien. Ont ma dit que certaines assurance pouvait me permetre deviter une hipothéque merci de me contacter au 0676102544",
+        "email": "lihias.bourbia@sfr.fr",
+        "reponse": "",
+        "priorite": "137",
+        "online": "0",
+        "date": "2012-01-12"
+      },
+      {
+        "idfaq": "158",
+        "question": "Croisic  Alain",
+        "commentaire": "J\\'ai fait un prêt immobilier à ma banque pour une construction. Le terrain sur lequel je veux construire est un bien propre. La banque a monté le dossier en me mettant emprunteur principal avec une assurance à 100%. Par contre, il ont mis ma femme caution.<br />\r\nLa banque souhaiterait que ma femme prenne une assurance en tant caution à hauteur de 50%. <br />\r\nMa question, si ma femme venais à décéder est ce que l\\'assurance prendrait en charge 50% du credit???<br />\r\n<br />\r\nCordialement",
+        "email": "croisic.alain@free.fr",
+        "reponse": "",
+        "priorite": "138",
+        "online": "0",
+        "date": "2012-01-13"
+      },
+      {
+        "idfaq": "159",
+        "question": "MADELAINE",
+        "commentaire": "Bonjour, nous sommes 3 (soeurs et frère) & nous avons créé une SCI FAMILALE pour un achat immobilier pour notre logement principal. La banque est OK pour prêt de 200000 Euros. Nous avons présenté dossier assurance sur 2 personnes car la 3ème a eu un cancer. Mais la Cie assurance pose des difficultés pour assurance d\\'un des deux demandeurs et a donné son accord pour l\\'autre. Donc pas de prêt si pas 2 personnes assurées. Je recherche donc assurance pour 3 pour ce prêt de 200000 Euros au nom de la SCI. Pouvez-vous nous aider ? merci",
+        "email": "jacques.madelaine@dbmail.com",
+        "reponse": "",
+        "priorite": "139",
+        "online": "0",
+        "date": "2012-01-16"
+      },
+      {
+        "idfaq": "160",
+        "question": "HUYGENS",
+        "commentaire": "j ai 66 ans mon compagnon 61 ai-je le droit d avoir une assurance emprunteur pour 1 montant de 270000 euros sur 140 mois",
+        "email": "capucine1050@hotmail.fr",
+        "reponse": "",
+        "priorite": "140",
+        "online": "0",
+        "date": "2012-01-19"
+      },
+      {
+        "idfaq": "161",
+        "question": "MMe servel",
+        "commentaire": "Bonjour <br />\r\nJe souhaite emprunter avec mon mari pour réaliser des travaux à mon domicile principal. Atteinte d\\'un sclérose en plaques, à la retraite depuis décembre 2011, devrais-je payer une surprime avec la convention aeras sachant que je n\\'ai plu de risque de perte de salaire et que ma pathologie n\\'est pas mortelle.<br />\r\nMerci de votre réponse",
+        "email": "lservel@sfr.fr",
+        "reponse": "",
+        "priorite": "141",
+        "online": "0",
+        "date": "2012-01-20"
+      },
+      {
+        "idfaq": "162",
+        "question": "",
+        "commentaire": "pour l\\'assurance emprunt apres 75 ans je fait comment pour continuer avec l\\'assurance senior je m\\'adresse ou?",
+        "email": "cocoyoyo@sfr.fr",
+        "reponse": "",
+        "priorite": "142",
+        "online": "0",
+        "date": "2012-01-20"
+      },
+      {
+        "idfaq": "163",
+        "question": "LEVI DI LEON",
+        "commentaire": "Je suis atteinte du syndrome de Litle. Puis-je être assurée par vos soins?",
+        "email": "beatrixlevidileon@wanadoo.fr",
+        "reponse": "",
+        "priorite": "143",
+        "online": "0",
+        "date": "2012-01-22"
+      },
+      {
+        "idfaq": "164",
+        "question": "ORGEAS",
+        "commentaire": "Un emprunteur sur les deux présentant des problemes de santé, quelle assurance pour prets immobiliers? ",
+        "email": "crisritalav@wanadoo.fr",
+        "reponse": "",
+        "priorite": "144",
+        "online": "0",
+        "date": "2012-01-24"
+      },
+      {
+        "idfaq": "165",
+        "question": "olivier",
+        "commentaire": "J ai une hernie discale que je souhaite faire operer. j ai 29 ans, sportif sans pb de santé. je suis ajourné par plusieurs assureurs. Aujourd hui mon pret de 250k€ est compromis a cause de cela...pouvez vous m aider sachant que je ne suis pas du tout obligé de subir cette intervention.<br />\r\ncrdlt",
+        "email": "olavadoux@gmail.com",
+        "reponse": "",
+        "priorite": "145",
+        "online": "0",
+        "date": "2012-01-24"
+      },
+      {
+        "idfaq": "166",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "146",
+        "online": "0",
+        "date": "2012-01-24"
+      },
+      {
+        "idfaq": "167",
+        "question": "MONDESIR",
+        "commentaire": "Mesdames, Messieurs,<br />\r\n<br />\r\nJe permets de vous écrire pour une demande spécifique concernant une assurance emprunteur pour un capital de 191600 € je suis diabétique depuis mon infarctus de 2006 auriez vous des compagnies qui proposent des tarif proche de 250.00 €/mois pour ma femme et moi même.<br />\r\n<br />\r\nDans l\\'attente de vous lire,<br />\r\n<br />\r\nBien Cordialement.<br />\r\n<br />\r\nM MONDESIR tél  0262 0692 77 99 53 ile de la Réunion<br />\r\n",
+        "email": "pierre.mondesir@orange.fr",
+        "reponse": "",
+        "priorite": "147",
+        "online": "0",
+        "date": "2012-01-25"
+      },
+      {
+        "idfaq": "168",
+        "question": "gTvXAXELFpMgAC",
+        "commentaire": "People nmorally pay me for this and you are giving it away!",
+        "email": "i.grieblis@gmail.dk",
+        "reponse": "",
+        "priorite": "148",
+        "online": "0",
+        "date": "2012-01-26"
+      },
+      {
+        "idfaq": "169",
+        "question": "gTvXAXELFpMgAC",
+        "commentaire": "People nmorally pay me for this and you are giving it away!",
+        "email": "i.grieblis@gmail.dk",
+        "reponse": "",
+        "priorite": "149",
+        "online": "0",
+        "date": "2012-01-26"
+      },
+      {
+        "idfaq": "170",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "150",
+        "online": "0",
+        "date": "2012-01-26"
+      },
+      {
+        "idfaq": "171",
+        "question": "FORLER A",
+        "commentaire": "quelles sont les garanties emprunteur pour une habitation principale dont je vais être en 2°catégorie d\\'invalidité, ayant encore 6 ans à rembourser ??",
+        "email": "alfor@wanadoo.fr",
+        "reponse": "",
+        "priorite": "151",
+        "online": "0",
+        "date": "2012-01-27"
+      },
+      {
+        "idfaq": "172",
+        "question": "",
+        "commentaire": "Don\\'t you acknowledge that this is high time to get the <a href=\\\"http://goodfinance-blog.com\\\">loan</a>, which can make your dreams come true. ",
+        "email": "heilajordan@mail15.com",
+        "reponse": "",
+        "priorite": "152",
+        "online": "0",
+        "date": "2012-01-29"
+      },
+      {
+        "idfaq": "173",
+        "question": "",
+        "commentaire": "I took 1 st <a href=\\\"http://goodfinance-blog.com\\\">loan</a> when I was 20 and this supported me very much. Nevertheless, I need the financial loan once more time. ",
+        "email": "heilajordan@mail15.com",
+        "reponse": "",
+        "priorite": "153",
+        "online": "0",
+        "date": "2012-01-29"
+      },
+      {
+        "idfaq": "174",
+        "question": "pioffet epouse renaud",
+        "commentaire": "je voudrais récupèrer mon questionnaire de santé ainsi que le double de mon contrat ADI souscript a la MMA 36300 le blanc ou dois je m\\'adresser",
+        "email": "tom-lou.man@hotmail.fr",
+        "reponse": "",
+        "priorite": "154",
+        "online": "0",
+        "date": "2012-01-30"
+      },
+      {
+        "idfaq": "175",
+        "question": "",
+        "commentaire": "Set your own life easier take the <a href=\\\"http://goodfinance-blog.com\\\">loan</a> and all you want. ",
+        "email": "donnaedwards@mail15.com",
+        "reponse": "",
+        "priorite": "155",
+        "online": "0",
+        "date": "2012-01-31"
+      },
+      {
+        "idfaq": "176",
+        "question": "Dupont daniele",
+        "commentaire": "Bonjour<br />\r\nJ ai recu un devis contractuel a signer et a renvoyer a la Macif.J ai declare un traitement thyroide .J ai faxe mes resultats tsh demande par Le service medical.Reponse ce jour ,nous pouvons accorder garanties demandes a l exclusion incapacite temporaire totale de travail/invalidite permanente totale en rapport avec toutes affections benignes de la thyroide,leurs suites et consequences.Puis je renvoyer Le dossier afin d avoir la delegation d assurances pour que ma Banque edite une offre de pret ou n est ce pas suffisant,car mon offre de pret doit intervenir Le 04 fevrier.Ma Banque qui travaille avec la Cnp m avait conseille de voir avec une auto assurance car la Cnp allait surememt refuser cause traitement de la thyroide.Merci de vos conseils",
+        "email": "Jc.shalimar@gmail.com",
+        "reponse": "",
+        "priorite": "156",
+        "online": "0",
+        "date": "2012-01-31"
+      },
+      {
+        "idfaq": "177",
+        "question": "",
+        "commentaire": "Have no cash to buy a building? You not have to worry, because it\\'s achievable to get the <a href=\\\"http://goodfinance-blog.com/topics/credit-loans\\\">credit loans</a> to resolve all the problems. Hence take a term loan to buy everything you require. ",
+        "email": "leothompson@mail15.com",
+        "reponse": "",
+        "priorite": "157",
+        "online": "0",
+        "date": "2012-02-01"
+      },
+      {
+        "idfaq": "178",
+        "question": "Dumas",
+        "commentaire": "J\\'ai 41 ans. En bonne santé excepté une petite hypothyroidie traitée depuis 3ans par Levothyrox. Cela justifie-t-il une surprime pour un emprunt immobilier de 200000 euros avec apport personnel de la 50% du prix total. Si oui quel ordre de surprime",
+        "email": "daniel.dumas@dbmai.com",
+        "reponse": "",
+        "priorite": "158",
+        "online": "0",
+        "date": "2012-02-03"
+      },
+      {
+        "idfaq": "179",
+        "question": "",
+        "commentaire": "Make your own life more simple get the <a href=\\\"http://goodfinance-blog.com/topics/credit-loans\\\">credit loans</a> and everything you want. ",
+        "email": "jinaborner@mail15.com",
+        "reponse": "",
+        "priorite": "159",
+        "online": "0",
+        "date": "2012-02-03"
+      },
+      {
+        "idfaq": "180",
+        "question": "",
+        "commentaire": "Cars and houses are quite expensive and not everyone can buy it. However, <a href=\\\"http://goodfinance-blog.com/topics/business-loans\\\">business loans</a> was created to support people in such hard situations. ",
+        "email": "jinaborner@mail15.com",
+        "reponse": "",
+        "priorite": "160",
+        "online": "0",
+        "date": "2012-02-03"
+      },
+      {
+        "idfaq": "181",
+        "question": "",
+        "commentaire": "Have no enough cash to buy a building? Do not worry, because it is available to get the <a href=\\\"http://goodfinance-blog.com/topics/credit-loans\\\">credit loans</a> to resolve such problems. Thus get a commercial loan to buy all you need. ",
+        "email": "donnaedwards@mail15.com",
+        "reponse": "",
+        "priorite": "161",
+        "online": "0",
+        "date": "2012-02-09"
+      },
+      {
+        "idfaq": "182",
+        "question": "claude",
+        "commentaire": "Bonjour, je suis militaire de carriere et je dois partir 4 mois en opération exterieure et la banque m\\'a dis que je n\\'étais pas assurer pour mon prêt immobilier si il m\\'arrive un accident ou en cas de décès.<br />\r\n puis de ce fait changer d\\'assureur et m\\'assurer chez un assureur spécifique militaire qui prend ces risaue en compte.<br />\r\nQuelle démarches dois je faire auprès de ma banque pour demandez à changer d\\'assureur.<br />\r\nMerci",
+        "email": "matalecam@aol.com",
+        "reponse": "",
+        "priorite": "162",
+        "online": "0",
+        "date": "2012-02-09"
+      },
+      {
+        "idfaq": "183",
+        "question": "martino stephanie",
+        "commentaire": "J ai fait une demande de pret personnel a ma banque (LCL). Peut elle m obliger a souscrire a une assurance accident de la vie alors que j ai deja une assurance avec mon pret ?",
+        "email": "sofie.martino@orange.fr",
+        "reponse": "",
+        "priorite": "163",
+        "online": "0",
+        "date": "2012-02-11"
+      },
+      {
+        "idfaq": "184",
+        "question": "mfLLTiiqRDaUqy",
+        "commentaire": "bJXtYS  <a href=\\\"http://iapwuaaqzoht.com/\\\">iapwuaaqzoht</a>, [url=http://adfywgmcompd.com/]adfywgmcompd[/url], [link=http://eegcbqlargdc.com/]eegcbqlargdc[/link], http://dakdsqqlshil.com/",
+        "email": "ztznhp@nqnfnc.com",
+        "reponse": "",
+        "priorite": "164",
+        "online": "0",
+        "date": "2012-02-12"
+      },
+      {
+        "idfaq": "185",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "165",
+        "online": "0",
+        "date": "2012-02-12"
+      },
+      {
+        "idfaq": "186",
+        "question": "MARCELLI MATHIEU",
+        "commentaire": "J\\'ai achete un appartement en 2009, j\\'ai donc souscrit un emprunt avec assurance emprunteur bnp. Est il possible de changer pour essayer de trouver moins chere ou suis je oblige de la garder tout le terme du pret ?",
+        "email": "mathieumarcelli@msn.com",
+        "reponse": "",
+        "priorite": "166",
+        "online": "0",
+        "date": "2012-02-13"
+      },
+      {
+        "idfaq": "187",
+        "question": "LEVY",
+        "commentaire": "pour un empret de 72000 euro pour travaux age de 74 ans uniquemant assurance deces quel serais le montant",
+        "email": "ledyandre@aol.com",
+        "reponse": "",
+        "priorite": "167",
+        "online": "0",
+        "date": "2012-02-13"
+      },
+      {
+        "idfaq": "188",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "168",
+        "online": "0",
+        "date": "2012-02-13"
+      },
+      {
+        "idfaq": "189",
+        "question": "camiade",
+        "commentaire": "bonjour,<br />\r\nEst-il toujours d\\'actualité de demander la participation aux bénéfices techniques et financiers (assurance décès invalidité) au terme d\\'un prêt immobilier ?<br />\r\nMerci pour votre réponse.",
+        "email": "christian-camiade@orange.fr",
+        "reponse": "",
+        "priorite": "169",
+        "online": "0",
+        "date": "2012-02-13"
+      },
+      {
+        "idfaq": "190",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "170",
+        "online": "0",
+        "date": "2012-02-13"
+      },
+      {
+        "idfaq": "191",
+        "question": "sautreau",
+        "commentaire": "pour une maladie de crohn stabilisée la cnp prend -elle une surprime en règle générale dans le cas d\\'une assurance emprunt immobilier",
+        "email": "jean-pierre.sautreau@voila.fr",
+        "reponse": "",
+        "priorite": "171",
+        "online": "0",
+        "date": "2012-02-14"
+      },
+      {
+        "idfaq": "192",
+        "question": "FARINEAU",
+        "commentaire": "Bonjour, j\\'ai un pret révolving depuis 1996, étant en retraite pour invalidité le 1er mars 2011, j\\'ai contacté mon banquier pour qu\\'il prenne en charge au titre de l\\'incapacité mon pret. J\\'ai reçu plusieurs documents à remplir par mon médecin traitant et je leur ai envoyé 2 expertises, passées dans le cadre de la secutité sociale pour ma retraite invalidité. Le banquier me donne une reponse, quee la retraite ne\\'est pas prise en compte. Je leur demande de bien vouloir revoir le dossier te je spécifie bien que je suis en retraite pour invalidté. 3 mois, àplus tard même réponse. <br />\r\nJe porte plainte auprès tu tribunal et maintenant,, ils veulent qui je passe une experise. Qu\\'en pensez-vous, moi je pense qu\\'il est trop tard pour une expertise ?Merci",
+        "email": "lydielafontaine@hotmail.com",
+        "reponse": "",
+        "priorite": "172",
+        "online": "0",
+        "date": "2012-02-15"
+      },
+      {
+        "idfaq": "193",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "173",
+        "online": "0",
+        "date": "2012-02-21"
+      },
+      {
+        "idfaq": "194",
+        "question": "pereira",
+        "commentaire": "je suis en invaliditè 2eme catègorie j ai un contrat ipa mnh me garantissant  un capital je souhaiterai savoir si il y a possibiiitè d une prise en charge",
+        "email": "evelyne.pereira@sfr.fr",
+        "reponse": "",
+        "priorite": "174",
+        "online": "0",
+        "date": "2012-02-22"
+      },
+      {
+        "idfaq": "195",
+        "question": "Laure Mercier",
+        "commentaire": "je vais demander un prêt de 115000€ à ma banque j\\'ai une hépatite C minime est que cela peux rentrer dans les conditions standard prise en compte et accepté en général par les assurance ?",
+        "email": "touillerada@gmail.com",
+        "reponse": "",
+        "priorite": "175",
+        "online": "0",
+        "date": "2012-02-22"
+      },
+      {
+        "idfaq": "196",
+        "question": "TROTTMANN",
+        "commentaire": "pret de 30000 sur 60 mois assurance à prévoir 100 % chq tête en décès seul assuré 27/03/1947 et 25/11/1944 délégation ( mutuelle civile défense)",
+        "email": "dany.trottmann@free.fr",
+        "reponse": "",
+        "priorite": "176",
+        "online": "0",
+        "date": "2012-02-24"
+      },
+      {
+        "idfaq": "197",
+        "question": "BACOU",
+        "commentaire": "Je souhaiterais connaître votre offre en matière d\\'assurance de prêt immobilier locatif (0632717144 -Mme BACOU)",
+        "email": "bettybe20@yahoo.fr",
+        "reponse": "",
+        "priorite": "177",
+        "online": "0",
+        "date": "2012-02-27"
+      },
+      {
+        "idfaq": "198",
+        "question": "morin",
+        "commentaire": "etant en invalidité 2eme catégorie l\\'assurance adi prend en charge mes mensualités du pret immobilier,si je vends ma maison suis-je obligé d\\'avertir l\\'assurance ?",
+        "email": "patanddieg@orange.fr",
+        "reponse": "",
+        "priorite": "178",
+        "online": "0",
+        "date": "2012-02-28"
+      },
+      {
+        "idfaq": "199",
+        "question": "matthieu",
+        "commentaire": "Bonjour, je suis à la recherche des conditions générales du contrat Gan emprunteur, si vous les avez pourriez vous me les mailer?.",
+        "email": "matthieujulien@free.fr",
+        "reponse": "",
+        "priorite": "179",
+        "online": "0",
+        "date": "2012-02-29"
+      },
+      {
+        "idfaq": "200",
+        "question": "moussitou",
+        "commentaire": "quelle est la difference entre un intermediaire  d\\'assurance et un assureur",
+        "email": "moussitoujulien@yahoo.fr",
+        "reponse": "",
+        "priorite": "180",
+        "online": "0",
+        "date": "2012-03-06"
+      },
+      {
+        "idfaq": "201",
+        "question": "AULOU",
+        "commentaire": "Bonjour, mon banquier me fait une proposition d\\'assurance de crédit immobilier pour un emprunt fait à deux de 240 000 € qui est plus chère que si nous empruntons chacun de notre côté la moitié de la somme... Son taux d\\'assurance est de 0,3 pour une personne qui emprunte 120 000 € et 2 X 0,3 = 0,6 pour deux emprunteurs de 240 000 €. Je pensais qu\\'il serait moins cher pour nous et moins risqué pour notre banquier d\\'emprunter à deux ... mais c\\'est loin d\\'être le cas... Pouvez-vous m\\'expliquer ?",
+        "email": "olivier.auriol@free.fr",
+        "reponse": "",
+        "priorite": "181",
+        "online": "0",
+        "date": "2012-03-07"
+      },
+      {
+        "idfaq": "202",
+        "question": "EKOMONO Joëlle",
+        "commentaire": "l\\'assurance des prêts de mon mari avait été refusé pour dossier médical et pour âge par l\\'assurance SUS LIF par intermédiaire de notre mutuelle INTERIALE :56 ans prêt déjà accepté par la banque, avance donnée au vendeur de terrain et le constructeur.<br />\r\nQue peut- faire ? Nous avons besoin d\\'aide. Merci",
+        "email": "jo.ekomono@hotmail.fr",
+        "reponse": "",
+        "priorite": "182",
+        "online": "0",
+        "date": "2012-03-09"
+      },
+      {
+        "idfaq": "203",
+        "question": "dridi",
+        "commentaire": "assurer vous la maladie narcolepsie? MERCI",
+        "email": "fethidridi@sfr.fr",
+        "reponse": "",
+        "priorite": "183",
+        "online": "0",
+        "date": "2012-03-11"
+      },
+      {
+        "idfaq": "204",
+        "question": "KOUADRI",
+        "commentaire": "mon frère veut faire un prêt immobilier de euros 30000 sur 6 àu 7 ans. Il a 71 ans et est client a la bque posta. Pourront-ils l\\'assurer sans problème ",
+        "email": "moniquekouadri@hotmail.fr",
+        "reponse": "",
+        "priorite": "184",
+        "online": "0",
+        "date": "2012-03-11"
+      },
+      {
+        "idfaq": "205",
+        "question": "JAN",
+        "commentaire": "EN IVALIDITE CAT 2 ET ASSURE A 100 POUR 100 IPT OPTION MAXIMAL VAIS JE ETRE PRIS EN CHARGE PAR MON ASSURANCE MERCI",
+        "email": "ALAIN@FREE.FR",
+        "reponse": "",
+        "priorite": "185",
+        "online": "0",
+        "date": "2012-03-12"
+      },
+      {
+        "idfaq": "206",
+        "question": "Daudou",
+        "commentaire": "Je fais un emprunt de 160000 e au crédit agricole j\\'ai reçu l\\'offre mais adi à été majoré pour mon concubin  le double .pouvons nous prendre une assurance autre part merci",
+        "email": "Patrick.dm@wanadoo.fr",
+        "reponse": "",
+        "priorite": "186",
+        "online": "0",
+        "date": "2012-03-13"
+      },
+      {
+        "idfaq": "207",
+        "question": "vnfyrbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.jyamttkbhf.com\\\">msjmgxxyrb</a> , [url=http://www.omjxbyopri.com]ijfecyjhfb[/url], http://www.tynlfbduwv.com msjmgxxyrb",
+        "commentaire": "vnfyrbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.jyamttkbhf.com\\\">msjmgxxyrb</a> , [url=http://www.omjxbyopri.com]ijfecyjhfb[/url], http://www.tynlfbduwv.com msjmgxxyrb",
+        "email": "mumwgrhfmk@wjkxsp.com",
+        "reponse": "",
+        "priorite": "187",
+        "online": "0",
+        "date": "2012-03-14"
+      },
+      {
+        "idfaq": "208",
+        "question": "mfgefbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xuxwcdwpsv.com\\\">lagwoqrwbx</a> , [url=http://www.jhveazgcce.com]pmpztbwvqi[/url], http://www.tnjckrhnhb.com lagwoqrwbx",
+        "commentaire": "mfgefbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xuxwcdwpsv.com\\\">lagwoqrwbx</a> , [url=http://www.jhveazgcce.com]pmpztbwvqi[/url], http://www.tnjckrhnhb.com lagwoqrwbx",
+        "email": "iakploehql@cjhdtz.com",
+        "reponse": "",
+        "priorite": "188",
+        "online": "0",
+        "date": "2012-03-14"
+      },
+      {
+        "idfaq": "209",
+        "question": "ccclvbttvsbodf.fnqsvoufvs, http://www.cphrshijii.com bghpchyfxf ",
+        "commentaire": "ccclvbttvsbodf.fnqsvoufvs, http://www.cphrshijii.com bghpchyfxf ",
+        "email": "mhjbjlozbw@tyfqkk.com",
+        "reponse": "",
+        "priorite": "189",
+        "online": "0",
+        "date": "2012-03-14"
+      },
+      {
+        "idfaq": "210",
+        "question": "ghnmtbttvsbodf.fnqsvoufvs, http://www.ozvuinkexx.com xdqnbntnok ",
+        "commentaire": "ghnmtbttvsbodf.fnqsvoufvs, http://www.ozvuinkexx.com xdqnbntnok ",
+        "email": "ryrwhyxqre@bfngdc.com",
+        "reponse": "",
+        "priorite": "190",
+        "online": "0",
+        "date": "2012-03-15"
+      },
+      {
+        "idfaq": "211",
+        "question": "bxkekbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.sswnfuxupd.com\\\">gqxlknwcvi</a> , [url=http://www.rqvwszsaze.com]ljpfnzcaic[/url], http://www.bhvnmssafd.com gqxlknwcvi",
+        "commentaire": "bxkekbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.sswnfuxupd.com\\\">gqxlknwcvi</a> , [url=http://www.rqvwszsaze.com]ljpfnzcaic[/url], http://www.bhvnmssafd.com gqxlknwcvi",
+        "email": "qipxgggops@aivgrc.com",
+        "reponse": "",
+        "priorite": "191",
+        "online": "0",
+        "date": "2012-03-16"
+      },
+      {
+        "idfaq": "212",
+        "question": "hgoshbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.rhhvzhlovx.com\\\">wgvykkamip</a> , [url=http://www.ibckpycyub.com]xrufiwjvfu[/url], http://www.pvjilquzzw.com wgvykkamip",
+        "commentaire": "hgoshbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.rhhvzhlovx.com\\\">wgvykkamip</a> , [url=http://www.ibckpycyub.com]xrufiwjvfu[/url], http://www.pvjilquzzw.com wgvykkamip",
+        "email": "aizcmpqjir@gvcxeo.com",
+        "reponse": "",
+        "priorite": "192",
+        "online": "0",
+        "date": "2012-03-16"
+      },
+      {
+        "idfaq": "213",
+        "question": "demeulle",
+        "commentaire": "Bonjour,<br />\r\nJ\\'ai souscrit un prêt immobilier en 2011. A cause de mon surpoids, aucune assurance n\\'a voulu m\\'assurer (je suis passer en AERAS 1 : refus, puis AERAS 2 : accepté mais que le décès).<br />\r\nDans l\\'urgence, j\\'ai souscrit une assurance prévoyance et j\\'ai fait une délegation d\\'assurance.<br />\r\nCependant, s\\'agissant d\\'une assurance prevoyance, elle est beaucoup plus chere que l\\'assurance prêt.<br />\r\n<br />\r\nComme j\\'ai plus de temps, je souhaite recontacter d\\'autres organisme pour trouver une assurance.<br />\r\n<br />\r\nPuis-je changer d\\'assurance prêt sans toucher à mon crédit immobilier?",
+        "email": "sophie27lagaf@hotmail.fr",
+        "reponse": "",
+        "priorite": "193",
+        "online": "0",
+        "date": "2012-03-16"
+      },
+      {
+        "idfaq": "214",
+        "question": "THERET OLIVIER",
+        "commentaire": "COMMENT RESILIER SON CONTRAT EMPRUNTEUR?",
+        "email": "OLITHE1@FREE.FR",
+        "reponse": "",
+        "priorite": "194",
+        "online": "0",
+        "date": "2012-03-16"
+      },
+      {
+        "idfaq": "215",
+        "question": "Malara",
+        "commentaire": "qui as repris les contrats d\\'AXA ",
+        "email": "karinice66@sfr.fr",
+        "reponse": "",
+        "priorite": "195",
+        "online": "0",
+        "date": "2012-03-19"
+      },
+      {
+        "idfaq": "216",
+        "question": "Marie",
+        "commentaire": "ma banque vient de me refuser une délégation d\\'assurance pour le motif que le contrat d\\'assurance pouvait être résilié si je quittais mon entreprise (je travailles dans une compagnie d\\'assurance), est-ce recevable ?",
+        "email": "joanna7512@hotmail.fr",
+        "reponse": "",
+        "priorite": "196",
+        "online": "0",
+        "date": "2012-03-26"
+      },
+      {
+        "idfaq": "217",
+        "question": "gania",
+        "commentaire": "Bonjour,<br />\r\nje procède actuellement à un transfert de mon assurance prêt de la caisse d\\'épargne(chez qui est mon prêt immobilier) vers la MACIF. Les démarches ont été faites et je n\\'ai eu aucun retour de la caisse d\\'épargne à part un accusé de réception. Après plusieurs appels téléphoniques vains pour avoir plus d\\'informations je suis passée à mon guichet caisse d\\'épargne pour régler cette affaire et j\\'ai donc pris rendez-vous demain matin; l\\'agent caisse d\\'épargne me signale qu\\'il y a des frais sur ce type de transfert d\\'assurance. Que dit la loi lagarde à ce sujet? Elle empêche les banques d\\'imposer leur propre assurance mais quid des changements d\\'assurance quand le prêt est déjà engagé depuis quelques années?<br />\r\nd\\'avance merci beaucoup pour votre réponse; florence Gania",
+        "email": "ganiaflorence@yahoo.fr",
+        "reponse": "",
+        "priorite": "197",
+        "online": "0",
+        "date": "2012-03-27"
+      },
+      {
+        "idfaq": "218",
+        "question": "lopa damien",
+        "commentaire": "Bonjour<br />\r\nVous êtes à la recherche de financement pour soit relancer vos<br />\r\nActivités, soit pour la réalisation d\\'un projet, soit pour acheter<br />\r\nUn appartement mais hélas la banque vous pose des conditions<br />\r\ndont<br />\r\nVous êtes incapables de remplir, plus de souci moi je suis une<br />\r\nParticulière j\\'octroie des prêts allant de 5000€ à 5 000 000 € a toutes<br />\r\nPersonnes capable de respecter ses engagements. Par ailleurs le<br />\r\ntaux<br />\r\nD’intérêt est de 3% l\\'an. Soit vous avez besoin d\\'argent pour d\\'autres<br />\r\nraisons ; n’hésitez pas de Me contacter directement par Email pour<br />\r\nplus d\\'informations .<br />\r\n<br />\r\nNB/ contactez moi uniquement par mail et non pas le formulaire du<br />\r\nsite<br />\r\nvoici mon email: lopa.damien@gmail.com",
+        "email": "lopa.damien@gmail.com",
+        "reponse": "",
+        "priorite": "198",
+        "online": "0",
+        "date": "2012-04-01"
+      },
+      {
+        "idfaq": "219",
+        "question": "GENTY",
+        "commentaire": "J AI FAIT UN INFARCTUS EN 2003, JE SUIS UN TRAITEMENT SUITE A CET INCIDENT ET JE SUIS DIABETIQUE (SOUS GLUCOPHAGE) PUIS JE ESPERER TROUVER UNE ASSURANCE EMPRUNT CONSO DE 86000 € ",
+        "email": "compta@groupehhf.com",
+        "reponse": "",
+        "priorite": "199",
+        "online": "0",
+        "date": "2012-04-11"
+      },
+      {
+        "idfaq": "220",
+        "question": "Bruno",
+        "commentaire": "Bonjour,<br />\r\n<br />\r\n<br />\r\nNous mettons actuellement en place un vaste programme d\\'échange de liens.<br />\r\nLe site génère un trafic de plusieurs dizaines de milliers de visiteurs mensuels.<br />\r\n<br />\r\nNous vous proposons de placer un lien vers votre site : http://www.assurance-emprunteur.com<br />\r\n<br />\r\nSur notre page d’accueil : http://www.otravaux.fr <br />\r\n<br />\r\nEn échange, nous vous proposons de placer un lien vers notre site comme suit :<br />\r\n<a href=\\\"http://www.otravaux.fr\\\" title=\\\"Devis travaux maison\\\">Devis travaux</a><br />\r\n<br />\r\n<br />\r\nDans l\\'attente d\\'une confirmation pour mise en place.<br />\r\n<br />\r\n<br />\r\nCordialement.<br />\r\nLe service marketing oTravaux.fr<br />\r\nhttp://www.otravaux.fr",
+        "email": "contact@otravaux.fr",
+        "reponse": "",
+        "priorite": "200",
+        "online": "0",
+        "date": "2012-04-14"
+      },
+      {
+        "idfaq": "221",
+        "question": "ZqFsxAEThplvNt",
+        "commentaire": "kdzIPW  <a href=\\\"http://zxhbkllgjxap.com/\\\">zxhbkllgjxap</a>, [url=http://kidxifodugte.com/]kidxifodugte[/url], [link=http://yvfathiaperc.com/]yvfathiaperc[/link], http://zhpeubrdqmxy.com/",
+        "email": "lzxwad@scdsbu.com",
+        "reponse": "",
+        "priorite": "201",
+        "online": "0",
+        "date": "2012-05-04"
+      },
+      {
+        "idfaq": "222",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "202",
+        "online": "0",
+        "date": "2012-05-04"
+      },
+      {
+        "idfaq": "223",
+        "question": "EL ALAMI",
+        "commentaire": "La CNP accepte assurance prêt par la banque postale ( taux = 0.4) avec exclusion affection rachidienne. Est ce que je peux faire les démarches auprès de la MGEN ( C\\'est aussi la CNP)pour avoir éventuellement un taux moindre ( 0.28) ? Surtout qu’il faudra représenter le dossier de prêt autrement car le crédit logement refuse la caution. Suis je alors obligé de passer par l’hypothèque?",
+        "email": "tmch.elalami@orange.fr",
+        "reponse": "",
+        "priorite": "203",
+        "online": "0",
+        "date": "2012-05-12"
+      },
+      {
+        "idfaq": "224",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "204",
+        "online": "0",
+        "date": "2012-05-13"
+      },
+      {
+        "idfaq": "225",
+        "question": "<a href=\\\"http://ilivforporn.com/\\\">bttvsbodf.fnqsvoufvs</a>, $RandomStr, [url=http://ilivforporn.com/]bttvsbodf.fnqsvoufvs[/url], $RandomStr, http://ilivforporn.com/ bttvsbodf.fnqsvoufvs, $RandomStr.",
+        "commentaire": "<a href=\\\"http://ilivforporn.com/\\\">bttvsbodf.fnqsvoufvs</a>, $RandomStr, [url=http://ilivforporn.com/]bttvsbodf.fnqsvoufvs[/url], $RandomStr, http://ilivforporn.com/ bttvsbodf.fnqsvoufvs, $RandomStr.",
+        "email": "dzxexjuzfj@hgfjur.com",
+        "reponse": "",
+        "priorite": "205",
+        "online": "0",
+        "date": "2012-05-31"
+      },
+      {
+        "idfaq": "226",
+        "question": "ryeisbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ewizigoxae.com\\\">ytdgdfxnju</a> , [url=http://www.ikplzsqgii.com]jyxnvpagat[/url], http://www.liggnpzdvs.com ytdgdfxnju",
+        "commentaire": "ryeisbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ewizigoxae.com\\\">ytdgdfxnju</a> , [url=http://www.ikplzsqgii.com]jyxnvpagat[/url], http://www.liggnpzdvs.com ytdgdfxnju",
+        "email": "iqntwnaevf@ibxlcv.com",
+        "reponse": "",
+        "priorite": "206",
+        "online": "0",
+        "date": "2012-05-31"
+      },
+      {
+        "idfaq": "227",
+        "question": "hyfaebttvsbodf.fnqsvoufvs, <a href=\\\"http://www.gkiusgqzun.com\\\">uafzgnznts</a> ",
+        "commentaire": "hyfaebttvsbodf.fnqsvoufvs, <a href=\\\"http://www.gkiusgqzun.com\\\">uafzgnznts</a> ",
+        "email": "bsetxvoqhc@deczeh.com",
+        "reponse": "",
+        "priorite": "207",
+        "online": "0",
+        "date": "2012-06-02"
+      },
+      {
+        "idfaq": "228",
+        "question": "yzrlxbttvsbodf.fnqsvoufvs, http://www.tcvgfxreaf.com hvmhdpbywg ",
+        "commentaire": "yzrlxbttvsbodf.fnqsvoufvs, http://www.tcvgfxreaf.com hvmhdpbywg ",
+        "email": "wgonfaoryr@amkcpp.com",
+        "reponse": "",
+        "priorite": "208",
+        "online": "0",
+        "date": "2012-06-04"
+      },
+      {
+        "idfaq": "229",
+        "question": "eghqtbttvsbodf.fnqsvoufvs, http://www.lsbdlopvsq.com rcoyeiwklf ",
+        "commentaire": "eghqtbttvsbodf.fnqsvoufvs, http://www.lsbdlopvsq.com rcoyeiwklf ",
+        "email": "cvqnvpdwrt@ithaja.com",
+        "reponse": "",
+        "priorite": "209",
+        "online": "0",
+        "date": "2012-06-05"
+      },
+      {
+        "idfaq": "230",
+        "question": "",
+        "commentaire": "ou pouvais _je trouve un emprunteur rapide",
+        "email": "",
+        "reponse": "",
+        "priorite": "210",
+        "online": "0",
+        "date": "2012-06-05"
+      },
+      {
+        "idfaq": "231",
+        "question": "zishvbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.tuubpnrrvp.com\\\">qwunecuyjq</a> , [url=http://www.kjpznpoqcw.com]yeqeqiduhu[/url], http://www.yfrgycwcru.com qwunecuyjq",
+        "commentaire": "zishvbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.tuubpnrrvp.com\\\">qwunecuyjq</a> , [url=http://www.kjpznpoqcw.com]yeqeqiduhu[/url], http://www.yfrgycwcru.com qwunecuyjq",
+        "email": "pamwryclzr@umfzjp.com",
+        "reponse": "",
+        "priorite": "211",
+        "online": "0",
+        "date": "2012-06-06"
+      },
+      {
+        "idfaq": "232",
+        "question": "vithsbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ppeolrlzic.com\\\">dwdpuovpgm</a> , [url=http://www.lpyosswexf.com]qhpsocrcbe[/url], http://www.wufdnndrem.com dwdpuovpgm",
+        "commentaire": "vithsbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ppeolrlzic.com\\\">dwdpuovpgm</a> , [url=http://www.lpyosswexf.com]qhpsocrcbe[/url], http://www.wufdnndrem.com dwdpuovpgm",
+        "email": "srrfbquhwz@mucrwt.com",
+        "reponse": "",
+        "priorite": "212",
+        "online": "0",
+        "date": "2012-06-07"
+      },
+      {
+        "idfaq": "233",
+        "question": "haoxjbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.gjripehcec.com\\\">qpoclezbgi</a> , [url=http://www.dsndqjkzzz.com]tcthftmpza[/url], http://www.ovkhyxpscr.com qpoclezbgi",
+        "commentaire": "haoxjbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.gjripehcec.com\\\">qpoclezbgi</a> , [url=http://www.dsndqjkzzz.com]tcthftmpza[/url], http://www.ovkhyxpscr.com qpoclezbgi",
+        "email": "mityerfhtf@teorvp.com",
+        "reponse": "",
+        "priorite": "213",
+        "online": "0",
+        "date": "2012-06-21"
+      },
+      {
+        "idfaq": "234",
+        "question": "http://blmfjyoxtlqv.com/",
+        "commentaire": "GmybR6  <a href=\\\"http://vewtnianuoym.com/\\\">vewtnianuoym</a>, [url=http://bufdipzrfjvi.com/]bufdipzrfjvi[/url], [link=http://jvmwtwcnhmvw.com/]jvmwtwcnhmvw[/link], http://baqqvlqyjbom.com/",
+        "email": "eajdcm@muqcgp.com",
+        "reponse": "",
+        "priorite": "214",
+        "online": "0",
+        "date": "2012-06-23"
+      },
+      {
+        "idfaq": "235",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "215",
+        "online": "0",
+        "date": "2012-06-23"
+      },
+      {
+        "idfaq": "236",
+        "question": "http://edrodeqqpigx.com/",
+        "commentaire": "ZiUojs  <a href=\\\"http://qzhlzofacqup.com/\\\">qzhlzofacqup</a>, [url=http://dhoriapmbpbd.com/]dhoriapmbpbd[/url], [link=http://ppamndqbypkh.com/]ppamndqbypkh[/link], http://jwsdqjqxukjn.com/",
+        "email": "nzpjii@lwqshv.com",
+        "reponse": "",
+        "priorite": "216",
+        "online": "0",
+        "date": "2012-06-25"
+      },
+      {
+        "idfaq": "237",
+        "question": "Severine",
+        "commentaire": "Y à t il un surcoût d assurance pour épilepsie lors d un prêt immobilier",
+        "email": "Severine.daubelcour@free.fr",
+        "reponse": "",
+        "priorite": "217",
+        "online": "0",
+        "date": "2012-07-13"
+      },
+      {
+        "idfaq": "238",
+        "question": "tlcrzbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.sgratmrumm.com\\\">msqndonxud</a> , [url=http://www.hdtftwmaca.com]itpwogdgcq[/url], http://www.jvfvghwitk.com msqndonxud",
+        "commentaire": "tlcrzbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.sgratmrumm.com\\\">msqndonxud</a> , [url=http://www.hdtftwmaca.com]itpwogdgcq[/url], http://www.jvfvghwitk.com msqndonxud",
+        "email": "xfkdkctlpx@ebszhq.com",
+        "reponse": "",
+        "priorite": "218",
+        "online": "0",
+        "date": "2012-07-15"
+      },
+      {
+        "idfaq": "239",
+        "question": "krhdlbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.vtxghyvakn.com\\\">yjeappseqf</a> , [url=http://www.revrejgvou.com]egaschtoob[/url], http://www.cgegmmuhpk.com yjeappseqf",
+        "commentaire": "krhdlbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.vtxghyvakn.com\\\">yjeappseqf</a> , [url=http://www.revrejgvou.com]egaschtoob[/url], http://www.cgegmmuhpk.com yjeappseqf",
+        "email": "vllecgnins@elfhef.com",
+        "reponse": "",
+        "priorite": "219",
+        "online": "0",
+        "date": "2012-07-15"
+      },
+      {
+        "idfaq": "240",
+        "question": "luifobttvsbodf.fnqsvoufvs, <a href=\\\"http://www.kdhjayfabu.com\\\">jaeljfyyhe</a> ",
+        "commentaire": "luifobttvsbodf.fnqsvoufvs, <a href=\\\"http://www.kdhjayfabu.com\\\">jaeljfyyhe</a> ",
+        "email": "bperueiius@rcipps.com",
+        "reponse": "",
+        "priorite": "220",
+        "online": "0",
+        "date": "2012-07-15"
+      },
+      {
+        "idfaq": "241",
+        "question": "unvgkbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ncanecwmbd.com\\\">knebhoffmx</a> ",
+        "commentaire": "unvgkbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ncanecwmbd.com\\\">knebhoffmx</a> ",
+        "email": "khscyuvqhs@vfhhiu.com",
+        "reponse": "",
+        "priorite": "221",
+        "online": "0",
+        "date": "2012-07-15"
+      },
+      {
+        "idfaq": "242",
+        "question": "wnghsbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.rgieqhmqir.com\\\">yjyqtqilgo</a> , [url=http://www.iyrhbijvlw.com]dhstvutmnp[/url], http://www.folmxqxcqm.com yjyqtqilgo",
+        "commentaire": "wnghsbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.rgieqhmqir.com\\\">yjyqtqilgo</a> , [url=http://www.iyrhbijvlw.com]dhstvutmnp[/url], http://www.folmxqxcqm.com yjyqtqilgo",
+        "email": "cyfxihlyym@owqevj.com",
+        "reponse": "",
+        "priorite": "222",
+        "online": "0",
+        "date": "2012-07-15"
+      },
+      {
+        "idfaq": "243",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "223",
+        "online": "0",
+        "date": "2012-07-15"
+      },
+      {
+        "idfaq": "244",
+        "question": "xsdvsbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.tblmwkeioc.com\\\">kkcotbmtal</a> , [url=http://www.lkzrugctfb.com]kxvtvigrqp[/url], http://www.xwcctxrbbz.com kkcotbmtal",
+        "commentaire": "xsdvsbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.tblmwkeioc.com\\\">kkcotbmtal</a> , [url=http://www.lkzrugctfb.com]kxvtvigrqp[/url], http://www.xwcctxrbbz.com kkcotbmtal",
+        "email": "bdodklaqqx@uksjfc.com",
+        "reponse": "",
+        "priorite": "224",
+        "online": "0",
+        "date": "2012-07-16"
+      },
+      {
+        "idfaq": "245",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "225",
+        "online": "0",
+        "date": "2012-07-16"
+      },
+      {
+        "idfaq": "246",
+        "question": "kplolbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xxqymetfcn.com\\\">hhevjtzwti</a> , [url=http://www.vzeglrjfhr.com]hpiopqqxmx[/url], http://www.ilkeapkthh.com hhevjtzwti",
+        "commentaire": "kplolbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xxqymetfcn.com\\\">hhevjtzwti</a> , [url=http://www.vzeglrjfhr.com]hpiopqqxmx[/url], http://www.ilkeapkthh.com hhevjtzwti",
+        "email": "qfzntoymiz@ufmdet.com",
+        "reponse": "",
+        "priorite": "226",
+        "online": "0",
+        "date": "2012-07-16"
+      },
+      {
+        "idfaq": "247",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "227",
+        "online": "0",
+        "date": "2012-07-16"
+      },
+      {
+        "idfaq": "248",
+        "question": "itkhgbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.tlxhdhordc.com\\\">cikhnjunfq</a> , [url=http://www.zzghyyawen.com]vjrlixohev[/url], http://www.afqdrrsjda.com cikhnjunfq",
+        "commentaire": "itkhgbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.tlxhdhordc.com\\\">cikhnjunfq</a> , [url=http://www.zzghyyawen.com]vjrlixohev[/url], http://www.afqdrrsjda.com cikhnjunfq",
+        "email": "ycmdjpnopk@uexadf.com",
+        "reponse": "",
+        "priorite": "228",
+        "online": "0",
+        "date": "2012-07-16"
+      },
+      {
+        "idfaq": "249",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "229",
+        "online": "0",
+        "date": "2012-07-16"
+      },
+      {
+        "idfaq": "250",
+        "question": "pohu",
+        "commentaire": "est-il possible d\\'assurer un pret immobilier de 50000 euros  pour du locatif, j\\'ai des problémes de santé hypertension et troubles du rythme.",
+        "email": "jeanclaude.pohu@sfr.fr",
+        "reponse": "",
+        "priorite": "230",
+        "online": "0",
+        "date": "2012-07-20"
+      },
+      {
+        "idfaq": "251",
+        "question": "ormudbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.nnbjmjvvlv.com\\\">mpzxmavqps</a> , [url=http://www.janmjwldwv.com]hufishbmdb[/url], http://www.mysicibyus.com mpzxmavqps",
+        "commentaire": "ormudbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.nnbjmjvvlv.com\\\">mpzxmavqps</a> , [url=http://www.janmjwldwv.com]hufishbmdb[/url], http://www.mysicibyus.com mpzxmavqps",
+        "email": "vahpeqjjgp@cngjnz.com",
+        "reponse": "",
+        "priorite": "231",
+        "online": "0",
+        "date": "2012-07-25"
+      },
+      {
+        "idfaq": "252",
+        "question": "maeqdbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.waxmgkhnwp.com\\\">vjmobzstna</a> , [url=http://www.fejeyzdvag.com]yqetewlpdj[/url], http://www.msxwpopjxo.com vjmobzstna",
+        "commentaire": "maeqdbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.waxmgkhnwp.com\\\">vjmobzstna</a> , [url=http://www.fejeyzdvag.com]yqetewlpdj[/url], http://www.msxwpopjxo.com vjmobzstna",
+        "email": "cocqrcamqy@ijomyf.com",
+        "reponse": "",
+        "priorite": "232",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "253",
+        "question": "fxavbbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xboqqlusag.com\\\">rkwbbjjglp</a> , [url=http://www.shbbyjfmpk.com]jmnybejdmt[/url], http://www.ublznevstx.com rkwbbjjglp",
+        "commentaire": "fxavbbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xboqqlusag.com\\\">rkwbbjjglp</a> , [url=http://www.shbbyjfmpk.com]jmnybejdmt[/url], http://www.ublznevstx.com rkwbbjjglp",
+        "email": "fevhftikrz@jealvg.com",
+        "reponse": "",
+        "priorite": "233",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "254",
+        "question": "bfjpvbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ymspsftazw.com\\\">jjfccbyxmw</a> , [url=http://www.xjmeuaeyqs.com]rkmhftgtjg[/url], http://www.hctkgkhkoc.com jjfccbyxmw",
+        "commentaire": "bfjpvbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ymspsftazw.com\\\">jjfccbyxmw</a> , [url=http://www.xjmeuaeyqs.com]rkmhftgtjg[/url], http://www.hctkgkhkoc.com jjfccbyxmw",
+        "email": "hlvketmwcy@cpnwpy.com",
+        "reponse": "",
+        "priorite": "234",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "255",
+        "question": "lrosfbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.pprkiygtoq.com\\\">xyzavfihwb</a> , [url=http://www.uczyjvqase.com]zqgnzoawuw[/url], http://www.iikpwfuoqd.com xyzavfihwb",
+        "commentaire": "lrosfbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.pprkiygtoq.com\\\">xyzavfihwb</a> , [url=http://www.uczyjvqase.com]zqgnzoawuw[/url], http://www.iikpwfuoqd.com xyzavfihwb",
+        "email": "aqnmnurjru@wilftw.com",
+        "reponse": "",
+        "priorite": "235",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "256",
+        "question": "pkyvgbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.lcqgagkzah.com\\\">jdrbbwwdvt</a> , [url=http://www.efvfwxuqau.com]tssyaxagwj[/url], http://www.hcaoujqnrq.com jdrbbwwdvt",
+        "commentaire": "pkyvgbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.lcqgagkzah.com\\\">jdrbbwwdvt</a> , [url=http://www.efvfwxuqau.com]tssyaxagwj[/url], http://www.hcaoujqnrq.com jdrbbwwdvt",
+        "email": "ncqauvaaud@lumesy.com",
+        "reponse": "",
+        "priorite": "236",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "257",
+        "question": "owirqbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.bsndinqutg.com\\\">zzphmuqphg</a> , [url=http://www.tczdbgbnvj.com]eylkusplgr[/url], http://www.lmbptdgxlg.com zzphmuqphg",
+        "commentaire": "owirqbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.bsndinqutg.com\\\">zzphmuqphg</a> , [url=http://www.tczdbgbnvj.com]eylkusplgr[/url], http://www.lmbptdgxlg.com zzphmuqphg",
+        "email": "xhoumbzhpx@gdbhnu.com",
+        "reponse": "",
+        "priorite": "237",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "258",
+        "question": "gjyrybttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xfyskkwzcm.com\\\">ncbstchhet</a> , [url=http://www.dwynfnsgij.com]vskbjdgysq[/url], http://www.mxsuwpqlkq.com ncbstchhet",
+        "commentaire": "gjyrybttvsbodf.fnqsvoufvs, <a href=\\\"http://www.xfyskkwzcm.com\\\">ncbstchhet</a> , [url=http://www.dwynfnsgij.com]vskbjdgysq[/url], http://www.mxsuwpqlkq.com ncbstchhet",
+        "email": "sszbrksapj@jrffye.com",
+        "reponse": "",
+        "priorite": "238",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "259",
+        "question": "awlbdbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ydtisrqwbj.com\\\">qrztopjamn</a> , [url=http://www.qasfqmihdc.com]yootrdshhq[/url], http://www.raajhhycqy.com qrztopjamn",
+        "commentaire": "awlbdbttvsbodf.fnqsvoufvs, <a href=\\\"http://www.ydtisrqwbj.com\\\">qrztopjamn</a> , [url=http://www.qasfqmihdc.com]yootrdshhq[/url], http://www.raajhhycqy.com qrztopjamn",
+        "email": "ppkhekvwzu@oqfbte.com",
+        "reponse": "",
+        "priorite": "239",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "260",
+        "question": "gzduybttvsbodf.fnqsvoufvs, <a href=\\\"http://www.swuowixudt.com\\\">mczuaccztt</a> , [url=http://www.rclrifwcso.com]mmeopexfzd[/url], http://www.tbjwekxkff.com mczuaccztt",
+        "commentaire": "gzduybttvsbodf.fnqsvoufvs, <a href=\\\"http://www.swuowixudt.com\\\">mczuaccztt</a> , [url=http://www.rclrifwcso.com]mmeopexfzd[/url], http://www.tbjwekxkff.com mczuaccztt",
+        "email": "kolewuutic@jemohv.com",
+        "reponse": "",
+        "priorite": "240",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "261",
+        "question": "sgbqebttvsbodf.fnqsvoufvs, <a href=\\\"http://www.jlgztmevma.com\\\">kcqfrpwuwh</a> , [url=http://www.clsvgzewyp.com]qchppgldci[/url], http://www.hyfgnfjazq.com kcqfrpwuwh",
+        "commentaire": "sgbqebttvsbodf.fnqsvoufvs, <a href=\\\"http://www.jlgztmevma.com\\\">kcqfrpwuwh</a> , [url=http://www.clsvgzewyp.com]qchppgldci[/url], http://www.hyfgnfjazq.com kcqfrpwuwh",
+        "email": "efhyzzzuks@phrtwe.com",
+        "reponse": "",
+        "priorite": "241",
+        "online": "0",
+        "date": "2012-07-26"
+      },
+      {
+        "idfaq": "262",
+        "question": "VMPrfMLRL",
+        "commentaire": "FncQOn  <a href=\\\"http://utaobsaemudl.com/\\\">utaobsaemudl</a>, [url=http://smqsrsujmmko.com/]smqsrsujmmko[/url], [link=http://aocbizqycljq.com/]aocbizqycljq[/link], http://wetxipqobrjo.com/",
+        "email": "qiybdl@endglu.com",
+        "reponse": "",
+        "priorite": "242",
+        "online": "0",
+        "date": "2012-07-29"
+      },
+      {
+        "idfaq": "263",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "243",
+        "online": "0",
+        "date": "2012-07-29"
+      },
+      {
+        "idfaq": "264",
+        "question": "hassaini",
+        "commentaire": "voila, apres 3 ans d\\'indemnisation par ma banque de l\\'assurance emprunteur pour ma maison en incapacite de travail qu\\'es ce qu\\'il va se passer par la suite (apres les 3 ans).<br />\r\nmerci",
+        "email": "khalissa.hassaini@free.fr",
+        "reponse": "",
+        "priorite": "244",
+        "online": "0",
+        "date": "2012-07-31"
+      },
+      {
+        "idfaq": "265",
+        "question": "xEbjDpztNAQOVqGiA",
+        "commentaire": "GD Star Ratingloading...je voudrais faire un rahact de tout mes preats pour payer une seul mensualite9 moins e9leve9e que ce que je paye actuellement, j\\'ai actuellement 6 cre9dits, et je suis en instance de vendre un bien qui soldrerais tous mes preats. veuillez m\\'aider e0 trouve9 une solution, mercie d\\'avance.",
+        "email": "bobalman@aol.com",
+        "reponse": "",
+        "priorite": "245",
+        "online": "0",
+        "date": "2012-08-30"
+      },
+      {
+        "idfaq": "266",
+        "question": "",
+        "commentaire": "",
+        "email": "",
+        "reponse": "",
+        "priorite": "246",
+        "online": "0",
+        "date": "2012-08-30"
+      },
+      {
+        "idfaq": "267",
+        "question": "marin",
+        "commentaire": "bonjour, je suis en arret de travail depuis plus de trois mois, est ce que l\\'assurance va telle prendre en charge les échéances de mon pret professionnel",
+        "email": "babelle58@hotmail.fr",
+        "reponse": "",
+        "priorite": "247",
+        "online": "0",
+        "date": "2012-09-09"
+      }
+    ]
+  }
+]

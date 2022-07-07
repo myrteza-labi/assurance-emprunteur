@@ -1,0 +1,43 @@
+
+.DropDownFaq {
+    margin-bottom: 50px; 
+}
+
+.faqSubjectAndTextContainer {
+    padding: 10px 20px;  
+    margin-bottom: 10px; 
+    border-bottom: 1px solid rgb(215, 215, 215); 
+}
+
+.faqSubject {
+    font-weight: 800; 
+    font-size: 16px;
+    color: rgb(70, 70, 70); 
+    margin-bottom : 10px; 
+}
+
+.faqSubjectAndArrow {
+    display: flex;  
+    justify-content: space-between ; 
+}
+
+.faqSubjectArrow {
+    font-size: 28px; 
+}
+
+.faqTextContainer {
+    max-height: 0px; 
+    transition: all 0.2s;
+    overflow: hidden; 
+}
+
+.displayFaqText {
+
+    max-height: 200px; 
+}
+
+.faqText {
+    line-height: 25px; 
+    font-size: 16px; 
+    font-weight: 500; 
+}
