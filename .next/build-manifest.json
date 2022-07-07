@@ -30,10 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/afi.js"
     ],
-    "/calc1": [
+    "/april": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/calc1.js"
+      "static/chunks/pages/april.js"
     ]
   },
   "ampFirstPages": []

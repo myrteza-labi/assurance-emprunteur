@@ -10,6 +10,7 @@ import '../styles/SimpleText.css'
 import '../styles/ButtonModel1.css'
 import '../styles/DropDownFaq.css'
 import '../styles/Footer.css'
+import '../styles/assurance.css'
 
 
 
