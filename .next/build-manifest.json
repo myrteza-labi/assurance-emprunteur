@@ -25,6 +25,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/afi": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/afi.js"
+    ],
     "/calc1": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
