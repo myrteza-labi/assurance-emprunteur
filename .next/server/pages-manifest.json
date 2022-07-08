@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/quel-banque-choisir": "pages/quel-banque-choisir.js"
+  "/financez-un-bien-immobilier-econome-en-energie": "pages/financez-un-bien-immobilier-econome-en-energie.js",
+  "/plan-de-site": "pages/plan-de-site.js"
 }

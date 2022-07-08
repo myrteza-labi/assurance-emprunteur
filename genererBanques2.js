@@ -32,6 +32,8 @@ for (var i = 0; i < myDataLenght; i++) {
   const descriptionToString = description.toString(); 
   const iToString = i.toString(); 
 
+  let nomAssuranceComplet  = nomAssurance + "2"; 
+
   let nomComposantSansTrait = nomAssurance.replace(/£|\$|€|-|,|\./g,'');
   let nomComposantFinal = capitalizeFirstLetter(nomComposantSansTrait); 
 
@@ -45,7 +47,7 @@ for (var i = 0; i < myDataLenght; i++) {
   'import Banques2 from "../autres-banques.json"; import Head from "next/head" ; export default function '+nomComposantFinal +'() { let test = Banques2.map((banque2) => { return banque2["data"]['+iToString+']["contenu"];});return <div><Head> <meta name="description" content="'+descriptionToString+'"/> </Head><div className=" pageGenerees pageAutreBanque" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}';
 
 
-  fs.writeFile('pages/'+ nomAssurance +'2.js', compagnieAssurance, function (err) {
+  fs.writeFile('pages/'+ nomAssuranceComplet +'.js', compagnieAssurance, function (err) {
     console.log("data saved");
   });
 } 

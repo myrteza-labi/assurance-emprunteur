@@ -1,0 +1,1 @@
+import Divers from "../divers.json"; import Head from "next/head" ; export default function Financezunbienimmobiliereconomeenenergie() { let test = Divers.map((diver) => { return diver["data"][3]["contenu"];});return <div><Head> <meta name="description" content=""/> </Head><div className=" pageGenerees pageDiverse" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}
