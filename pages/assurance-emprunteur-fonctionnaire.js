@@ -1,0 +1,2 @@
+import Articles from "../article.json"; import Head from "next/head" ; export default function Assuranceemprunteurfonctionnaire() { let test = Articles.map((article) => { return article["data"][21]["contenu"];});return <div><Head> <meta name="description" content="Les spécificités et les avantages de l\'Assurance emprunteur fonctionnaire pour permettre la souscription à la bonne garantie de pret
+"/> </Head><div className=" pageGenerees pageArticle" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

@@ -1,8 +1,5 @@
 [
   {
-    "type": "table",
-    "name": "faq",
-    "database": "assurancqlpret",
     "data": [
       {
         "idfaq": "1",

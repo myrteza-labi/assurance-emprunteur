@@ -47,7 +47,7 @@ for (var i = 0; i < myDataLenght; i++) {
 */
   
   const compagnieAssurance =
-  'import Compagnies from "../compagnies.json"; import Head from "next/head" ; export default function '+nomComposantFinal +'() { let test = Compagnies.map((compagnie) => { return compagnie["data"]['+iToString+']["contenu"];});return <div><Head> <meta name="description" content="'+descriptionToString+'"/> </Head><div className="compagnieAssurance" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}';
+  'import Compagnies from "../compagnies.json"; import Head from "next/head" ; export default function '+nomComposantFinal +'() { let test = Compagnies.map((compagnie) => { return compagnie["data"]['+iToString+']["contenu"];});return <div><Head> <meta name="description" content="'+descriptionToString+'"/> </Head><div className=" pageGenerees compagnieAssurance" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}';
 
 
   fs.writeFile('pages/'+ nomAssurance +'.js', compagnieAssurance, function (err) {

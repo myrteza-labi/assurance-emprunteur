@@ -1,0 +1,1 @@
+import Racines from "../racine.json"; import Head from "next/head" ; export default function Error404() { let test = Racines.map((racine) => { return racine["data"][7]["contenu"];});return <div><Head> <meta name="description" content="error-404"/> </Head><div className=" pageGenerees pageRacine" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

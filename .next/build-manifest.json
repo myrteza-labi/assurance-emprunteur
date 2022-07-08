@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/droit-loi-murcef": [
+    "/assurance-emprunteurs": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/droit-loi-murcef.js"
+      "static/chunks/pages/assurance-emprunteurs.js"
     ],
-    "/erreur404": [
+    "/substitution-assurance-emprunt": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/erreur404.js"
+      "static/chunks/pages/substitution-assurance-emprunt.js"
     ]
   },
   "ampFirstPages": []
