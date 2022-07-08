@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/afi": [
+    "/droit-loi-murcef": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/afi.js"
+      "static/chunks/pages/droit-loi-murcef.js"
     ],
-    "/april": [
+    "/erreur404": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/april.js"
+      "static/chunks/pages/erreur404.js"
     ]
   },
   "ampFirstPages": []
