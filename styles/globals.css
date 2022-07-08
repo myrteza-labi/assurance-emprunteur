@@ -17,3 +17,36 @@ img {
 ul {
   list-style-type: none; 
 }
+
+
+
+.mainImageHeader {
+  background-position: center; 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
+
+.mainImageHeaderRisqueAggrave {
+  background-image: url('/risque-aggrave.webp');  
+} 
+
+.mainImageHeaderEmprunt {
+  background-image: url('/emprunt.webp');  
+} 
+
+.mainImageHeaderGuide {
+  background-image: url('/assurance-emprunteur-guide.webp'); 
+}
+
+.mainImageHeaderDossier {
+  background-image: url('/assurance-emprunteur-dossier.webp'); 
+}
+
+.mainImageHeaderApril {
+  background-image: url('/assurance-emprunteur-april.webp'); 
+} 
+
+
+.mainImageHeaderAllianz {
+  background-image: url('/assurance-emprunteur-allianz.webp'); 
+}

@@ -2,6 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/financez-un-bien-immobilier-econome-en-energie": "pages/financez-un-bien-immobilier-econome-en-energie.js",
-  "/plan-de-site": "pages/plan-de-site.js"
+  "/april": "pages/april.js"
 }

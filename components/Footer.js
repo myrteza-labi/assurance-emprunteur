@@ -1,6 +1,9 @@
+import Link from "next/link";
+
+
+
 export default function Footer() {
   
-
 
 
 
@@ -10,14 +13,21 @@ export default function Footer() {
     <footer className="footerMobile">
     <ul className="footerUlMobile">
       <div className="footerLinkAndArrow">
-        <li className="footerLinkContainerMobile">footer link</li>
+      <Link href="/april">
+          <a className="footerLinkContainerMobile">
+            April
+          </a>
+        </Link>
         <span className="material-symbols-outlined footerLinkArrowMobile">
           arrow_right
         </span>
       </div>
       <div className="footerLinkAndArrow">
-        <li className="footerLinkContainerMobile">footer link</li>
-        <span className="material-symbols-outlined footerLinkArrowMobile">
+      <Link href="/allianz">
+          <a className="footerLinkContainerMobile">
+            Allianz
+          </a>
+        </Link>        <span className="material-symbols-outlined footerLinkArrowMobile">
           arrow_right
         </span>
       </div>

@@ -8,7 +8,7 @@ export default function Navbar() {
       ? setMobileMenuClassName("mobileMenuDisplay")
       : setMobileMenuClassName(" ");
   }
-
+ 
   /* MOBILE UI  */
   const mobileUi = (
     <header className="headerMobile">
@@ -61,9 +61,29 @@ export default function Navbar() {
         </span>
       </div>
       <div className="oneMobileMenuItem">
-        <Link href="/">
+        <Link href="/emprunt">
           <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
-            Buisiness
+            Emprunt
+          </a>
+        </Link>
+        <span className="material-symbols-outlined itemArrowMenuMobile">
+          chevron_right
+        </span>
+      </div>
+      <div className="oneMobileMenuItem">
+        <Link href="/guide">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Guide
+          </a>
+        </Link>
+        <span className="material-symbols-outlined itemArrowMenuMobile">
+          chevron_right
+        </span>
+      </div>
+      <div className="oneMobileMenuItem">
+        <Link href="/dossier">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Dossier
           </a>
         </Link>
         <span className="material-symbols-outlined itemArrowMenuMobile">
