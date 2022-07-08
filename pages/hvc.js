@@ -1,0 +1,2 @@
+import Maladies from "../maladies.json"; import Head from "next/head" ; export default function Hvc() { let test = Maladies.map((maladie) => { return maladie["data"][11]["contenu"];});return <div><Head> <meta name="description" content="Mettez en concurrence les assureurs pour choisir un contrat sur assurance emprunteur sérologie HVC sur mesure et pas cher qui vous permettra de vous couvrir et d\'obtenir votre crédit immobilier ! 
+"/> </Head><div className=" pageGenerees pagesMaladie" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

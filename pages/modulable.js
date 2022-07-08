@@ -1,0 +1,3 @@
+import Credits from "../credits.json"; import Head from "next/head" ; export default function Modulable() { let test = Credits.map((credit) => { return credit["data"][25]["contenu"];});return <div><Head> <meta name="description" content="Simulation d\'emprunt - Le Tarificateur permet de simuler votre 
+Emprunt modulable en fonction de votre profil emprunteur et des différentes caractéristiques de votre 
+Emprunt modulable en ligne"/> </Head><div className=" pageGenerees pageCredit" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

@@ -14,7 +14,7 @@ const fs = require("fs");
 
 
 
-let myData = require('./risques.json');
+let myData = require('./autres-banques.json');
 let myDataLenght = Object.keys(myData[0].data).length; 
 
 
@@ -42,10 +42,10 @@ for (var i = 0; i < myDataLenght; i++) {
 */
   
   const compagnieAssurance =
-  'import Risques from "../risques.json"; import Head from "next/head" ; export default function '+nomComposantFinal +'() { let test = Risques.map((risque) => { return risque["data"]['+iToString+']["contenu"];});return <div><Head> <meta name="description" content="'+descriptionToString+'"/> </Head><div className=" pageGenerees pageRisque" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}';
+  'import Banques2 from "../autres-banques.json"; import Head from "next/head" ; export default function '+nomComposantFinal +'() { let test = Banques2.map((banque2) => { return banque2["data"]['+iToString+']["contenu"];});return <div><Head> <meta name="description" content="'+descriptionToString+'"/> </Head><div className=" pageGenerees pageAutreBanque" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}';
 
 
-  fs.writeFile('pages/'+ nomAssurance +'.js', compagnieAssurance, function (err) {
+  fs.writeFile('pages/'+ nomAssurance +'2.js', compagnieAssurance, function (err) {
     console.log("data saved");
   });
 } 

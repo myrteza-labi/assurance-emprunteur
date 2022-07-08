@@ -1,0 +1,2 @@
+import Maladies from "../maladies.json"; import Head from "next/head" ; export default function Obesite() { let test = Maladies.map((maladie) => { return maladie["data"][42]["contenu"];});return <div><Head> <meta name="description" content="Faites jouer la concurrence entre les compagnies d\'assurance pour trouver la meilleur assurance emprunteur risque aggravé santé obésité du marché ! 
+"/> </Head><div className=" pageGenerees pagesMaladie" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

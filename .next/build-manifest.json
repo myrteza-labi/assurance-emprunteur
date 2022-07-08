@@ -15,6 +15,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/123credit": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/123credit.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,20 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/convention-aeras": [
+    "/quel-banque-choisir": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/convention-aeras.js"
-    ],
-    "/sante": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/sante.js"
-    ],
-    "/substitution-assurance-emprunt": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/substitution-assurance-emprunt.js"
+      "static/chunks/pages/quel-banque-choisir.js"
     ]
   },
   "ampFirstPages": []

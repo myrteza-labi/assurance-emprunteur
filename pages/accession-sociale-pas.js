@@ -1,0 +1,2 @@
+import Credits from "../credits.json"; import Head from "next/head" ; export default function Accessionsocialepas() { let test = Credits.map((credit) => { return credit["data"][36]["contenu"];});return <div><Head> <meta name="description" content="Un emprunt Accession Sociale (PAS) pour effectuer des projets, comme l’achat d\'un logement, vérifiez les conditions requises pour bénéficier du pret PAS - Pret Accession Sociale
+"/> </Head><div className=" pageGenerees pageCredit" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

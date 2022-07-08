@@ -1,0 +1,2 @@
+import Banques from "../banques.json"; import Head from "next/head" ; export default function Lcl() { let test = Banques.map((banque) => { return banque["data"][9]["contenu"];});return <div><Head> <meta name="description" content="lcl assurance emprunteur la compagnie assurance emprunteur moins chere : 15000€ d\'&eacute;conomie sur votre assurance emprunteur lcl, devis en 
+ligne pour assurance emprunteur imm&eacute;diat avec votre courtier specialiste"/> </Head><div className=" pageGenerees pagesBanque" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

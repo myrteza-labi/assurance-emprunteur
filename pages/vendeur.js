@@ -1,0 +1,2 @@
+import Credits from "../credits.json"; import Head from "next/head" ; export default function Vendeur() { let test = Credits.map((credit) => { return credit["data"][34]["contenu"];});return <div><Head> <meta name="description" content="Emprunt vendeur - Tarificateur pour simuler votre 
+credit vendeur selon le profil de l\'emprunteur et du projet à financer"/> </Head><div className=" pageGenerees pageCredit" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

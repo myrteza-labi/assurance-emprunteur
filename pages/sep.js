@@ -1,0 +1,2 @@
+import Maladies from "../maladies.json"; import Head from "next/head" ; export default function Sep() { let test = Maladies.map((maladie) => { return maladie["data"][35]["contenu"];});return <div><Head> <meta name="description" content="Faites jouer la concurrence entre les compagnies d\'assurance pour vous assurer avec le risque aggravé de santé SEP et obtenir votre crédit immobilier ! 
+"/> </Head><div className=" pageGenerees pagesMaladie" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

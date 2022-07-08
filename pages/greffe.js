@@ -1,0 +1,2 @@
+import Maladies from "../maladies.json"; import Head from "next/head" ; export default function Greffe() { let test = Maladies.map((maladie) => { return maladie["data"][50]["contenu"];});return <div><Head> <meta name="description" content="Si vous envisagez de realiser un credit pour acheter votre habitation et que avez subi ou devez subir une greffe ... faites appel aux courtier assurance-emprunteur.com
+"/> </Head><div className=" pageGenerees pagesMaladie" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

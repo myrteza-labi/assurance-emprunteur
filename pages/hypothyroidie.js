@@ -1,0 +1,2 @@
+import Maladies from "../maladies.json"; import Head from "next/head" ; export default function Hypothyroidie() { let test = Maladies.map((maladie) => { return maladie["data"][4]["contenu"];});return <div><Head> <meta name="description" content="Assurer un credit en cas d\'Hypothyroïdie, pour les assureurs, le « risque aggravé de santé » n\'est pas pris en charge par toutes les offres d\'assurance emprunteur.
+"/> </Head><div className=" pageGenerees pagesMaladie" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

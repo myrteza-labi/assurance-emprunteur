@@ -1,0 +1,2 @@
+import Maladies from "../maladies.json"; import Head from "next/head" ; export default function Lupus() { let test = Maladies.map((maladie) => { return maladie["data"][52]["contenu"];});return <div><Head> <meta name="description" content="Assurer un emprunt immobilier en cas de lupus, pour les assureurs, le « risque de santé » n\'est pas pris en charge par toutes les compagnies d\'assurance credit.
+"/> </Head><div className=" pageGenerees pagesMaladie" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

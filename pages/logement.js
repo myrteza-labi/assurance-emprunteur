@@ -1,0 +1,2 @@
+import Credits from "../credits.json"; import Head from "next/head" ; export default function Logement() { let test = Credits.map((credit) => { return credit["data"][24]["contenu"];});return <div><Head> <meta name="description" content="Emprunt logement en ligne, simulation de votre demande de
+credit logement par rappor à votre profil emprunteur et des caractéristiques de votre projet à financer"/> </Head><div className=" pageGenerees pageCredit" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}

@@ -1,0 +1,2 @@
+import Maladies from "../maladies.json"; import Head from "next/head" ; export default function Infarctus() { let test = Maladies.map((maladie) => { return maladie["data"][13]["contenu"];});return <div><Head> <meta name="description" content="Simulation assurance emprunteur - Assurer un prêt en cas de risque infarctus, pour les assureurs, le « risque aggravé de santé » n\'est pas pris en charge par tous les contrats d\'assurance emprunteur.
+"/> </Head><div className=" pageGenerees pagesMaladie" dangerouslySetInnerHTML={{ __html: test }}></div></div>;}
