@@ -3,28 +3,12 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <footer className="footerMobile">
-      <ul className="footerUlMobile footerCompagniesAssurances">
-        <div className="footerLinkAndArrow">
-          <Link href="/guide">
-            <a className="footerLinkContainerMobile">Blog</a>
-          </Link>
-          <span className="material-symbols-outlined footerLinkArrowMobile">
-            arrow_right
-          </span>
-        </div>
-        <div className="footerLinkAndArrow">
-          <Link href="/dossier">
-            <a className="footerLinkContainerMobile">Dossier</a>
-          </Link>
-          <span className="material-symbols-outlined footerLinkArrowMobile">
-            arrow_right
-          </span>
-        </div>
-      </ul>
+      <div className="footerThemeContainer">
+     
       <ul className="footerUlMobile footerCompagniesAssurances">
         <div className="footerLinkAndArrow">
           <Link href="/compagnie-assurance">
-            <a className="footerLinkContainerMobile">Compagnies d'assurances</a>
+            <a className="footerLinkContainerMobile footerLinkContainerMobileTitle">Compagnies d'assurances</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -32,7 +16,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/april">
-            <a className="footerLinkContainerMobile">- April</a>
+            <a className="footerLinkContainerMobile"> April</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -40,7 +24,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/allianz">
-            <a className="footerLinkContainerMobile">- Allianz</a>
+            <a className="footerLinkContainerMobile"> Allianz</a>
           </Link>{" "}
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -48,7 +32,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/alptis">
-            <a className="footerLinkContainerMobile">- Alptis</a>
+            <a className="footerLinkContainerMobile"> Alptis</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -56,7 +40,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/generali">
-            <a className="footerLinkContainerMobile">- Generali</a>
+            <a className="footerLinkContainerMobile"> Generali</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -64,7 +48,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/swiss-life">
-            <a className="footerLinkContainerMobile">- Swisslife</a>
+            <a className="footerLinkContainerMobile"> Swisslife</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -72,7 +56,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/ugip">
-            <a className="footerLinkContainerMobile">- Ugip</a>
+            <a className="footerLinkContainerMobile"> Ugip</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -82,7 +66,7 @@ export default function Footer() {
       <ul className="footerUlMobile footerCompagniesAssurances">
         <div className="footerLinkAndArrow">
           <Link href="/risque-aggrave">
-            <a className="footerLinkContainerMobile">Risques aggravés</a>
+            <a className="footerLinkContainerMobile footerLinkContainerMobileTitle">Risques aggravés</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -90,27 +74,27 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/sante">
-            <a className="footerLinkContainerMobile">- Santé</a>
+            <a className="footerLinkContainerMobile">Santé</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
           </span>
         </div>
-
 
         <div className="footerLinkAndArrow">
           <Link href="/cancer">
-            <a className="footerLinkContainerMobile">- Cancer</a>
+            <a className="footerLinkContainerMobile">Cancer</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
           </span>
         </div>
 
-
         <div className="footerLinkAndArrow">
           <Link href="/affection-longue-duree">
-            <a className="footerLinkContainerMobile">- Affection longue durée</a>
+            <a className="footerLinkContainerMobile">
+              Affection longue durée
+            </a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -119,7 +103,7 @@ export default function Footer() {
 
         <div className="footerLinkAndArrow">
           <Link href="/maladie-de-crohn">
-            <a className="footerLinkContainerMobile">- Maladie de Crohn</a>
+            <a className="footerLinkContainerMobile">Maladie de Crohn</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -127,7 +111,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/hypertension-arterielle">
-            <a className="footerLinkContainerMobile">- Hypertension</a>
+            <a className="footerLinkContainerMobile">Hypertension</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -135,7 +119,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/senior">
-            <a className="footerLinkContainerMobile">- Senior</a>
+            <a className="footerLinkContainerMobile">Senior</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -143,7 +127,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/sport">
-            <a className="footerLinkContainerMobile">- Sports</a>
+            <a className="footerLinkContainerMobile">Sports</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -151,7 +135,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/metier">
-            <a className="footerLinkContainerMobile">- Métiers</a>
+            <a className="footerLinkContainerMobile">Métiers</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -162,7 +146,7 @@ export default function Footer() {
       <ul className="footerUlMobile footerCompagniesAssurances">
         <div className="footerLinkAndArrow">
           <Link href="/emprunt">
-            <a className="footerLinkContainerMobile">Emprunt</a>
+            <a className="footerLinkContainerMobile footerLinkContainerMobileTitle">Emprunt</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -170,7 +154,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/professionnel">
-            <a className="footerLinkContainerMobile">- Professionnel</a>
+            <a className="footerLinkContainerMobile">Professionnel</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -178,7 +162,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/personnel">
-            <a className="footerLinkContainerMobile">- Personnel</a>
+            <a className="footerLinkContainerMobile">Personnel</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -186,7 +170,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/rachat">
-            <a className="footerLinkContainerMobile">- Rachat</a>
+            <a className="footerLinkContainerMobile">Rachat</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -194,7 +178,7 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/bancaire">
-            <a className="footerLinkContainerMobile">- Bancaire</a>
+            <a className="footerLinkContainerMobile">Bancaire</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
@@ -202,15 +186,22 @@ export default function Footer() {
         </div>
         <div className="footerLinkAndArrow">
           <Link href="/habitat">
-            <a className="footerLinkContainerMobile">- Immobilier</a>
+            <a className="footerLinkContainerMobile">Immobilier</a>
           </Link>
           <span className="material-symbols-outlined footerLinkArrowMobile">
             arrow_right
           </span>
         </div>
-        </ul>
-        <ul className="footerUlMobile footerCompagniesAssurances">
-
+      </ul>
+      <ul className="footerUlMobile footerCompagniesAssurances">
+        <div className="footerLinkAndArrow">
+          <Link href="/guide">
+            <a className="footerLinkContainerMobile footerLinkContainerMobileTitle">Blog</a>
+          </Link>
+          <span className="material-symbols-outlined footerLinkArrowMobile">
+            arrow_right
+          </span>
+        </div>
         <div className="footerLinkAndArrow">
           <Link href="/dossier">
             <a className="footerLinkContainerMobile">Dossier</a>
@@ -219,15 +210,9 @@ export default function Footer() {
             arrow_right
           </span>
         </div>
-        <div className="footerLinkAndArrow">
-          <Link href="/guide">
-            <a className="footerLinkContainerMobile">Guide</a>
-          </Link>
-          <span className="material-symbols-outlined footerLinkArrowMobile">
-            arrow_right
-          </span>
-        </div>
       </ul>
+      </div>
+      
 
       <div className="socialFooterContainerMobile">
         <div className="socialIconFooterMobile facebookIconFooter"></div>

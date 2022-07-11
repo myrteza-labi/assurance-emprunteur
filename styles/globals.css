@@ -56,7 +56,7 @@ ul {
 
 /* header risques aggravés */
 .mainImageHeaderRisqueAggrave {
-  background-image: url("/risque-aggrave.webp");
+  background-image: url("/assurance-emprunteur-risque-aggrave.webp");
 }
 
 .mainImageHeaderSante {
@@ -131,3 +131,67 @@ ul {
 }
 
 
+/* D E S K T O P */
+
+@media screen and (min-width: 1024px){
+  .mainImageHeaderEmprunt {
+    background-image: url("/emprunt-desktop.webp");
+  }
+  .mainImageHeaderGuide {
+    background-image: url("/assurance-emprunteur-guide-desktop.webp");
+  }
+  .mainImageHeaderDossier {
+    background-image: url("/assurance-emprunteur-dossier-desktop.webp");
+  }
+  .mainImageHeaderApril {
+    background-image: url("/assurance-emprunteur-april-desktop.webp");
+  }
+  .mainImageHeaderAllianz {
+    background-image: url("/assurance-emprunteur-allianz-desktop.webp");
+  }
+  .mainImageHeaderAlptis {
+    background-image: url("/assurance-emprunteur-alptis-desktop.webp");
+  }
+  .mainImageHeaderGenerali {
+    background-image: url("/assurance-emprunteur-generali-desktop.webp");
+  }
+  .mainImageHeaderSwisslife {
+    background-image: url("/assurance-emprunteur-swisslife-desktop.webp");
+  }
+  .mainImageHeaderUgip {
+    background-image: url("/assurance-emprunteur-ugip-desktop.webp");
+  }
+  .mainImageHeaderRisqueAggrave {
+    background-image: url("/assurance-emprunteur-risque-aggrave-desktop.webp");
+  }
+  .mainImageHeaderSante {
+    background-image: url("/assurance-emprunteur-risque-sante-desktop.webp");
+  }
+  .mainImageHeaderCancer {
+    background-image: url("/assurance-emprunteur-cancer-desktop.webp");
+  }
+  .mainImageHeaderAffection {
+    background-image: url("/assurance-emprunteur-affection-desktop.webp");
+  }
+  .mainImageHeaderCrohn {
+    background-image: url("/assurance-emprunteur-crohn-desktop.webp");
+  }
+  .mainImageHeaderHypertenstion {
+    background-image: url("/assurance-emprunteur-hypertension-desktop.webp");
+  }
+  .mainImageHeaderSenior {
+    background-image: url("/assurance-emprunteur-senior-desktop.webp");
+  }
+  .mainImageHeaderSport {
+    background-image: url("/assurance-emprunteur-sport-desktop.webp");
+  }
+  .mainImageHeaderMetier {
+    background-image: url("/assurance-emprunteur-metier-desktop.webp");
+  }
+  .mainImageHeaderProfessionnel {
+    background-image: url("/assurance-emprunt-professionnel-desktop.webp");
+  }
+  .mainImageHeaderPersonnel {
+    background-image: url("/assurance-emprunt-personnel-desktop.webp");
+  }
+}

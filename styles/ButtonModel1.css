@@ -29,3 +29,20 @@
     color: #fff; 
     font-weight: 700; 
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .ButtonModel1Red {
+        font-size: 16px;  
+    }
+}
+
+
+/* D E S K T O P */
+@media screen and (min-width: 1024px){
+    .ButtonModel1{
+        margin-top: 20px; 
+        margin-bottom: 20px; 
+        padding: 15px 20px ; 
+        font-size: 16px; 
+    }
+}

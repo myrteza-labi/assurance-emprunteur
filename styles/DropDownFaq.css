@@ -28,7 +28,7 @@
 .faqTextContainer {
     max-height: 0px; 
     transition: all 0.2s;
-    /*: hidden; */
+    overflow: hidden; 
 }
 
 .displayFaqText {
@@ -40,4 +40,13 @@
     line-height: 25px; 
     font-size: 16px; 
     font-weight: 500; 
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .faqSubject {
+        font-size: 18px;
+    }
+    .faqText {
+        line-height: 30px; 
+    }
 }

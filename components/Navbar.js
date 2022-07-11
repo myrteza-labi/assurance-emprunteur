@@ -109,10 +109,84 @@ export default function Navbar() {
     </div>
   );
 
+
+
+  const DesktopNavbar = (
+
+    
+    <navbar className="desktopNavbar">
+       
+      <Link href="/">
+      <div className="">
+          <img
+            src="/logo-assurance-emprunteur.webp"
+            width="250px"
+            height="auto"
+            alt=""
+            className="navbarLogoMobile "
+          />
+        </div>
+      </Link>
+
+
+
+      <div className="desktopItemsNavbarContainer">
+      <div className="oneMobileMenuItem">
+        <Link href="/">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Accueil
+          </a>
+        </Link>
+      </div>
+
+      <div className="oneMobileMenuItem">
+        <Link href="/compagnie-assurance">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Compagnies
+          </a>
+        </Link>
+
+      </div>
+      <div className="oneMobileMenuItem">
+        <Link href="/emprunt">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Emprunt
+          </a>
+        </Link>
+
+      </div>
+      <div className="oneMobileMenuItem">
+        <Link href="/guide">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Blog
+          </a>
+        </Link>
+
+      </div>
+      <div className="oneMobileMenuItem">
+        <Link href="/dossier">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Dossier
+          </a>
+        </Link>
+
+      </div>
+      <div className="oneMobileMenuItem">
+        <Link href="/contact">
+          <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
+            Contact
+          </a>
+        </Link>
+
+      </div>
+      </div>
+      
+    </navbar>
+);
+
   return (
     <div className="HeaderNavbarMenu ">
-      {mobileUi}
-      {mobileMenu}
+      {DesktopNavbar}
     </div>
   );
 }

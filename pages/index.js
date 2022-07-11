@@ -80,7 +80,7 @@ export default function Home() {
 
       <div className="sectionMainImageMobile">
         <h1 className="textMainImageMobileOne">
-          <span className="insideTextPartOneMobile">Assurance</span><br/>
+          <span className="insideTextPartOneMobile">Assurance </span>
           <span className="insideTextPartTwotMobile">Emprunteur</span>
         </h1>
       </div>
@@ -88,19 +88,25 @@ export default function Home() {
 
       <div className="itemsContainerMobile">
         <div className="itemMobile">
-          <span className="material-symbols-outlined">
-              call
+        <Link href="/immobilier">
+          <span className="material-symbols-outlined itemThemeBar">
+              house
           </span>
+        </Link>
         </div>
         <div className="itemMobile">
-          <span className="material-symbols-outlined">
-              pin_drop
+        <Link href="/emprunt">
+          <span className="material-symbols-outlined itemThemeBar">
+              euro
           </span>
+        </Link>
         </div>
         <div className="itemMobile">
-          <span className="material-symbols-outlined">
-            search
+        <Link href="/garantie-emprunteur">
+          <span className="material-symbols-outlined itemThemeBar">
+              handshake
           </span>
+        </Link>
         </div>
 
         <div className="itemMobileText">
@@ -200,9 +206,6 @@ export default function Home() {
           </a>
         </Link></button>
       </div>
-
-
-      
     </div>
   );
 

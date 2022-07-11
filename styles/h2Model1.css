@@ -22,3 +22,9 @@
     min-height: 1px; 
     border: 2px solid rgb(172, 58, 58); 
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .h2Model1 {
+        font-size: 34px;
+    }
+}

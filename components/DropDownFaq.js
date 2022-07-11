@@ -76,7 +76,7 @@ export default function DropDownFaq(props) {
 
       <div className="faqSubjectAndTextContainer">
       <div onClick={()=>handleClick(4)} className="faqSubjectAndArrow">
-        <p  className="faqSubject">{props.subject1}</p>
+        <p  className="faqSubject">{props.subject5}</p>
             <span class="material-symbols-outlined faqSubjectArrow">
                 expand_more
             </span>

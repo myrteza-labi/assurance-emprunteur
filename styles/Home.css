@@ -3,6 +3,7 @@
 .HeaderNavbarMenu {
     position: sticky; 
     top: 0; 
+    z-index: 1; 
 }
 .navbarMobile{
     height: 60px; 
@@ -204,42 +205,10 @@
     font-weight: 500; 
 }
 
-/* FOOTER */
-.footerMobile {
-    background-color: #00254D; 
-    color: rgb(202, 239, 254); 
-    padding: 30px; 
-}
-
-.footerUlMobile {
-    list-style-type: none; 
-}
-
-.footerLinkAndArrow{
-    display: flex; 
-    align-items: center; 
-    justify-content: space-between; 
-    margin-bottom: 20px; 
-}
 
 
 
-.footerLinkArrowMobile {
-    font-size: 30px; 
-}
 
-.socialFooterContainerMobile {
-    display: flex; 
-}
-
-.socialIconFooterMobile {
-    min-height: 50px; 
-    min-width: 50px; 
-    margin-right: 20px; 
-    background-position: center; 
-    background-size: contain; 
-    background-repeat: no-repeat; 
-}
 
 .facebookIconFooter {
     background-image: url('/facebook.png'); 
@@ -281,3 +250,134 @@
     font-weight: 500; 
 }
 
+/* T A B L E T */
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .sectionMainImageMobile {
+        min-height: 400px; 
+    }
+    .navbarLogoMobile {
+        width: 300px; 
+    }
+    .articleParagrapheMobile {
+        font-size: 16px; 
+    }
+    .themeSectionMobile {
+        display: flex; 
+        justify-content: space-between; 
+        padding: 10px  30px; 
+    }
+    
+    .articleTitleMobile {
+        font-size: 20px; 
+    }
+    .simpleTextMobileH2{
+        font-size: 46px; 
+    }
+    .simpleTextParagraphe{
+        font-size: 16px; 
+    }
+    .itemMobileText {
+        font-size: 18px; 
+    }
+    .itemThemeBar{
+        font-size: 30px; 
+        font-weight: 300; 
+    }
+    .themeTitleMobile {
+        font-weight: 600; 
+    }
+    .advertiseButtonMobile{
+        font-size: 20px; 
+        width: 200px; 
+        font-weight: 700; 
+    }
+
+}
+
+
+
+
+/* D E S K T O P */
+@media screen and (min-width: 1024px){
+    .desktopNavbar {
+        display: flex;
+        align-items: center; 
+        justify-content: space-between; 
+        padding: 20px 20px; 
+        background-color: #fff; 
+
+    }
+    .desktopItemsNavbarContainer {
+        display: flex; 
+    }
+    .oneMobileMenuItem {
+        display: flex; 
+        align-items: center; 
+        justify-content: space-between;
+        border-bottom: none; 
+        padding: 0 35px 0 0; 
+
+    }
+    .navbarLogoMobile {
+        width: 320px; 
+    }
+    .textMainImageMobileOne {
+        font-size:60px;
+    }
+
+    .footerThemeContainer {
+        display: flex;
+        justify-content: space-between; 
+    }
+    .footerLinkArrowMobile {
+        display: none; 
+    }
+    .footerLinkAndArrow{
+        margin-bottom: 30px; 
+    }
+
+    .sectionMainImageMobile {
+        min-height: 400px; 
+    }
+    .navbarLogoMobile {
+        width: 300px; 
+    }
+    .articleParagrapheMobile {
+        font-size: 16px; 
+    }
+    .themeSectionMobile {
+        display: flex; 
+        justify-content: space-between; 
+        padding: 10px  30px; 
+    }
+    .articleTitleMobile {
+        font-size: 20px; 
+    }
+    .simpleTextMobileH2{
+        font-size: 46px; 
+    }
+    .simpleTextParagraphe{
+        font-size: 16px; 
+    }
+    .itemMobileText {
+        font-size: 18px; 
+    }
+    .itemThemeBar{
+        font-size: 35px; 
+        font-weight: 300; 
+    }
+    .themeTitleMobile {
+        font-weight: 600; 
+    }
+    .advertiseButtonMobile{
+        font-size: 20px; 
+        width: 200px; 
+        font-weight: 700; 
+    }
+    .sectionMainImageMobile {
+        min-height: 600px; 
+        background-image: url('/assurance-emprunteur-accueil-desktop.webp'); 
+    }
+    
+}
