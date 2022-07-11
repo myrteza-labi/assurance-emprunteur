@@ -1,6 +1,32 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
+
+module.exports = {
+  trailingSlash: true,
+  reactStrictMode: false,
+  eslint: { ignoreDuringBuilds: true },
+  eslint: { ignoreDuringExport: true }, 
 }
 
-module.exports = nextConfig
+/*
+
+
+
+  async headers() {
+    return [
+      {
+        source: '/about',
+        headers: [
+          {
+            key: 'x-custom-header',
+            value: 'my custom header value',
+          },
+          {
+            key: 'x-another-custom-header',
+            value: 'my other custom header value',
+          },
+        ],
+      },
+    ]
+  },
+
+*/

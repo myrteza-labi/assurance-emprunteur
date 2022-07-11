@@ -173,7 +173,6 @@ input[type="radio"]:checked:before {
     border-radius: 12px;
     caret-color: #13acf7;
     padding: 20px;
-    text-overflow: ellipsis;
 }
 
 .inputText:focus {

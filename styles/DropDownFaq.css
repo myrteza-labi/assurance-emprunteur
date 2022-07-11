@@ -28,7 +28,7 @@
 .faqTextContainer {
     max-height: 0px; 
     transition: all 0.2s;
-    overflow: hidden; 
+    /*: hidden; */
 }
 
 .displayFaqText {

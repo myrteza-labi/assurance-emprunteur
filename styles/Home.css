@@ -1,4 +1,9 @@
 
+
+.HeaderNavbarMenu {
+    position: sticky; 
+    top: 0; 
+}
 .navbarMobile{
     height: 60px; 
     width: 100%;
@@ -7,7 +12,6 @@
     box-shadow: 0px 0px 10px rgb(198, 198, 198);
     background-color: #fff; 
     transition: all 0.1s;
-    overflow: hidden; 
 }
 
 .headerMobile{
@@ -59,17 +63,17 @@
     padding: 0 0 20px 20px; 
 }
 
+.textMainImageMobileOne {
+    text-shadow: 2px 2px 2px  rgba(31, 31, 31, 0.481);
+    font-size: 40px;
+}
+
 .insideTextPartOneMobile {
-    font-size: 40px; 
     color: #fff; 
-    text-shadow: 2px 2px 2px  #000;
 }
 
 .insideTextPartTwotMobile{
-    font-weight: 900; 
-    font-size: 40px;
     color: rgb(230, 100, 0); 
-    text-shadow: 2px 2px 2px  #000;
 }
 
 .itemsContainerMobile {
@@ -188,14 +192,16 @@
 }
 
 .advertiseButtonMobile{
+    font-size: 16px; 
     width: 150px; 
     padding: 10px; 
     margin-top: 30px; 
     border-radius: 4px; 
     border: none; 
-    background-color:rgb(173, 215, 255); 
-    color: #1F4C79; 
-    font-weight: 900; 
+    background-color:rgb(234, 101, 40); 
+    border: 1px solid rgb(255, 255, 255); 
+    color: #fff; 
+    font-weight: 500; 
 }
 
 /* FOOTER */
@@ -216,10 +222,7 @@
     margin-bottom: 20px; 
 }
 
-.footerLinkContainerMobile {
-    font-weight: 600; 
-    font-size: 20px; 
-}
+
 
 .footerLinkArrowMobile {
     font-size: 30px; 
@@ -253,9 +256,10 @@
 /* MOBILE MENU */
 .mobileMenu {
     display: none; 
+    border-top: 1px solid rgb(202, 202, 202); 
     z-index: 100; 
     position: fixed; 
-    top: 61px; 
+    top: 60px; 
     width: 100%; 
     min-height: 100vh; 
     background-color: rgba(22, 34, 68, 0.95); 

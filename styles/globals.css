@@ -1,9 +1,13 @@
-
 * {
-  padding: 0; 
-  margin: 0; 
-  box-sizing: border-box; 
-  font-family: 'Open Sans', sans-serif;}
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+button:hover {
+  cursor: pointer; 
+}
 
 a {
   color: inherit;
@@ -11,42 +15,119 @@ a {
 }
 
 img {
-  max-width: 100%; 
+  max-width: 100%;
 }
 
 ul {
-  list-style-type: none; 
+  list-style-type: none;
 }
 
-
-
+/* header Générale */
 .mainImageHeader {
-  background-position: center; 
-  background-size: cover; 
-  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-.mainImageHeaderRisqueAggrave {
-  background-image: url('/risque-aggrave.webp');  
-} 
+/* header assurance */
+.mainImageHeaderApril {
+  background-image: url("/assurance-emprunteur-april.webp");
+}
 
+.mainImageHeaderAllianz {
+  background-image: url("/assurance-emprunteur-allianz.webp");
+}
+
+.mainImageHeaderAlptis {
+  background-image: url("/assurance-emprunteur-alptis.webp");
+}
+
+.mainImageHeaderGenerali {
+  background-image: url("/assurance-emprunteur-generali.webp");
+}
+
+.mainImageHeaderSwisslife {
+  background-image: url("/assurance-emprunteur-swisslife.webp");
+}
+
+.mainImageHeaderUgip {
+  background-image: url("/assurance-emprunteur-ugip.webp");
+}
+
+/* header risques aggravés */
+.mainImageHeaderRisqueAggrave {
+  background-image: url("/risque-aggrave.webp");
+}
+
+.mainImageHeaderSante {
+  background-image: url("/assurance-emprunteur-risque-sante.webp");
+}
+
+.mainImageHeaderCancer {
+  background-image: url("/assurance-emprunteur-cancer.webp");
+}
+
+.mainImageHeaderCrohn {
+  background-image: url("/assurance-emprunteur-crohn.webp");
+}
+
+.mainImageHeaderMetier {
+  background-image: url("/assurance-emprunteur-metier.webp");
+}
+
+.mainImageHeaderSport {
+  background-image: url("/assurance-emprunteur-sport.webp");
+}
+.mainImageHeaderHypertenstion {
+  background-image: url("/assurance-emprunteur-hypertension.webp");
+}
+.mainImageHeaderAffection {
+  background-image: url("/assurance-emprunteur-affection.webp");
+}
+.mainImageHeaderSenior {
+  background-image: url("/assurance-emprunteur-senior.webp");
+}
+
+/* header emprunt */
 .mainImageHeaderEmprunt {
-  background-image: url('/emprunt.webp');  
-} 
+  background-image: url("/emprunt.webp");
+}
+
+.mainImageHeaderHabitat {
+  background-image: url("/assurance-emprunt-immobilier.webp");
+}
+
+.mainImageHeaderPersonnel {
+  background-image: url("/assurance-emprunt-personnel.webp");
+}
+
+.mainImageHeaderBancaire {
+  background-image: url("/assurance-emprunt-banque.webp");
+}
+
+.mainImageHeaderProfessionnel {
+  background-image: url("/assurance-emprunt-professionnel.webp");
+}
+
+.mainImageHeaderRachat {
+  background-image: url("/assurance-emprunt-rachat-credit.webp");
+}
 
 .mainImageHeaderGuide {
-  background-image: url('/assurance-emprunteur-guide.webp'); 
+  background-image: url("/assurance-emprunteur-guide.webp");
 }
 
 .mainImageHeaderDossier {
-  background-image: url('/assurance-emprunteur-dossier.webp'); 
+  background-image: url("/assurance-emprunteur-dossier.webp");
 }
 
-.mainImageHeaderApril {
-  background-image: url('/assurance-emprunteur-april.webp'); 
-} 
-
-
-.mainImageHeaderAllianz {
-  background-image: url('/assurance-emprunteur-allianz.webp'); 
+/* Header dossier et blog/guide */
+.mainImageHeaderGuide {
+  background-image: url("/assurance-emprunteur-guide.webp");
 }
+
+.mainImageHeaderDossier {
+  background-image: url("/assurance-emprunteur-dossier.webp");
+}
+
+

@@ -11,6 +11,7 @@ export default function Home() {
   }
 
   /* Desktop UI  */
+  /*
   const desktopHeader = (
     <header className="headerHomeMobile">
       <div className="logoCtnMobile ">
@@ -67,7 +68,7 @@ export default function Home() {
       </navbar>
     </header>
   );
-
+*/
 
 
 
@@ -79,8 +80,8 @@ export default function Home() {
 
       <div className="sectionMainImageMobile">
         <h1 className="textMainImageMobileOne">
-          <span className="insideTextPartOneMobile">Première partie</span><br/>
-          <span className="insideTextPartTwotMobile">DEUXIEME PARTIE</span>
+          <span className="insideTextPartOneMobile">Assurance</span><br/>
+          <span className="insideTextPartTwotMobile">Emprunteur</span>
         </h1>
       </div>
 
@@ -101,14 +102,19 @@ export default function Home() {
             search
           </span>
         </div>
-        <div className="itemMobileText">
-          <p className="itemMobileTextPara">CONTACT</p>
-        </div>
-      </div>
 
+        <div className="itemMobileText">
+        <Link href="/contact">
+          <a className="itemMobileTextPara">
+          CONTACT
+          </a>
+        </Link>
+      </div>
+      </div>
+ 
       <div className="simpleTextMobile">
-        <h2 className="simpleTextMobileH2">Je suis un titre h2</h2>
-        <p className="simpleTextParagraphe">Je suis un paragraphe simple Je suis un paragraphe simple Je suis un paragraphe simple Je suis un paragraphe simple </p>
+        <h2 className="simpleTextMobileH2">Comparateur d'assurancce</h2>
+        <p className="simpleTextParagraphe">Pour mieux se protéger lors d’un prêt immobilier, il vous est fortement conseillé de  vous souscrire à une assurance emprunteur immobilier.</p>
       </div>
 
       <div className="themeSectionMobile">
@@ -118,7 +124,13 @@ export default function Home() {
               home
             </span>
           </div>
-          <div className="themeTitleMobile">LE TITRE DU THEME</div>
+          <div className="themeTitleMobile">
+          <Link href="/immobilier">
+          <a>
+          IMMOBILIER
+          </a>
+        </Link>
+          </div>
             <span className="material-symbols-outlined themeArrowMobile">
               arrow_right
             </span>
@@ -129,7 +141,11 @@ export default function Home() {
               euro
             </span>
           </div>
-          <div className="themeTitleMobile">LE TITRE DU THEME</div>
+          <div className="themeTitleMobile">          <Link href="/emprunt">
+          <a>
+          EMPRUNT
+          </a>
+        </Link></div>
             <span className="material-symbols-outlined themeArrowMobile">
               arrow_right
             </span>
@@ -140,7 +156,11 @@ export default function Home() {
               handshake
             </span>
           </div>
-          <div className="themeTitleMobile">LE TITRE DU THEME</div>
+          <div className="themeTitleMobile"><Link href="/garantie-emprunteur">
+          <a>
+          GARANTIES
+          </a>
+        </Link></div>
             <span className="material-symbols-outlined themeArrowMobile">
               arrow_right
             </span>
@@ -150,37 +170,35 @@ export default function Home() {
       <div className="articleContainerMobile">
         <div className="articleMobile">
           <div className="titleAndIconArticleContainerMobile">
-            <h3 className="articleTitleMobile">Titre article</h3>
-            <span className="material-symbols-outlined articleArrowMobile">
-              arrow_right
-            </span>
+            <h3 className="articleTitleMobile">À propos de l'assurance emprunteur</h3>
+
           </div>
-          <p className="articleParagrapheMobile">Voici un paragraphe de mon article Voici un paragraphe de mon article Voici un paragraphe de mon article Voici un paragraphe de mon articleVoici un paragraphe de mon article </p>
+          <p className="articleParagrapheMobile">Certaines obligations sur l’assurance emprunteur immobilier  vous seront imposées afin de vous faire accorder votre prêt immobilier. Par contre, vous êtes libre de choisir votre taux de couverture.</p>
         </div>
         <div className="articleMobile">
           <div className="titleAndIconArticleContainerMobile">
-            <h3 className="articleTitleMobile">Titre article</h3>
-                        <span className="material-symbols-outlined articleArrowMobile">
-              arrow_right
-            </span>
+            <h3 className="articleTitleMobile">L'assurance emprunteur est-elle obligatoire?</h3>
+
           </div>
-          <p className="articleParagrapheMobile">Paragraphe article </p>
+          <p className="articleParagrapheMobile">Ni la loi ni les banques ne peuvent vous obliger à souscrire à ce genre d’assurance. Pourtant, nombreuses sont celles qui vont vous refuser votre prêt immobilier sans elle, ce qui revient au même.</p>
         </div>
         <div className="articleMobile">
           <div className="titleAndIconArticleContainerMobile">
-            <h3 className="articleTitleMobile">Titre article</h3>
-                        <span className="material-symbols-outlined articleArrowMobile">
-              arrow_right
-            </span>
+            <h3 className="articleTitleMobile">Changer d'assurance prêt immobilier</h3>
+
           </div>
-          <p className="articleParagrapheMobile">Paragraphe article </p>
+          <p className="articleParagrapheMobile">La loi donne aujourd’hui aux emprunteurs la possibilité de changer d'assurance prêt immobilier dans un délai de 12 mois après la signature du prêt. Une fois ce délai dépassé, il n’est plus possible de déléguer l’assurance.</p>
         </div>
       </div>
 
 
       <div className="advertiseContainerMobile">
-        <h3 className="advertiseTitleMobile">Voici un slogan publicitaire assez court mais beau</h3>
-        <button className="advertiseButtonMobile">BUTTON PUB</button>
+        <h3 className="advertiseTitleMobile">Économisez sur vos assurances</h3>
+        <button className="advertiseButtonMobile"><Link href="/devis-assurance-emprunteur">
+          <a>
+          Obtenir un devis
+          </a>
+        </Link></button>
       </div>
 
 
@@ -197,3 +215,4 @@ export default function Home() {
     </div>
     )
 }
+

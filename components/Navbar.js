@@ -8,7 +8,10 @@ export default function Navbar() {
       ? setMobileMenuClassName("mobileMenuDisplay")
       : setMobileMenuClassName(" ");
   }
- 
+
+
+
+
   /* MOBILE UI  */
   const mobileUi = (
     <header className="headerMobile">
@@ -23,15 +26,18 @@ export default function Navbar() {
         </div>
 
         <div className="mobileNavbarPartTwo">
-          <div className="navbarLogoContainerMobile">
+        <Link href="/">
+        <div className="navbarLogoContainerMobile">
             <img
-              src="/AmericanBank-horizontal.webp"
+              src="/logo-assurance-emprunteur.webp"
               width="250px"
               height="auto"
               alt=""
               className="navbarLogoMobile "
             />
           </div>
+        </Link>
+
         </div>
       </navbar>
     </header>
@@ -73,7 +79,7 @@ export default function Navbar() {
       <div className="oneMobileMenuItem">
         <Link href="/guide">
           <a onClick={handleMobileMenuBtnClck} className="itemMenuTitleMobile">
-            Guide
+            Blog
           </a>
         </Link>
         <span className="material-symbols-outlined itemArrowMenuMobile">
@@ -104,7 +110,7 @@ export default function Navbar() {
   );
 
   return (
-    <div className="Home ">
+    <div className="HeaderNavbarMenu ">
       {mobileUi}
       {mobileMenu}
     </div>

@@ -16,12 +16,25 @@ import '../styles/assurance.css'
 
 
 
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
     <Navbar/>
       <Component {...pageProps} />
     <Footer/>
+     <script id="inline-script"
+        dangerouslySetInnerHTML={{
+            __html: `
+
+            if (typeof window !== "undefined") {
+
+                 (document, "script", "asInit");
+                 var _AppCfg = { version : "0.1", appId:"votreass"};
+
+              }`,
+        }}
+        ></script>
     </>
   )
 }
