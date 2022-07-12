@@ -1,29 +1,6 @@
-.mainImageHeader {
-    min-height: 250px; 
-}
-
-.mainImageHeaderPage2 {
-    background-image: url('/small-assurance-emprunteur-immobilier.webp'); 
-    background-position: center; 
-    background-size: cover; 
-    background-repeat: no-repeat; 
-}
-
 .Page2MainContent {
     padding: 40px; 
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px){
-    .mainImageHeader {
-        min-height: 350px; 
-    }
-}
 
-@media screen and (min-width: 1024px){
-    .mainImageHeader {
-        min-height: 500px; 
-    }
-    .mainImageHeaderPage2 {
-        background-image: url('/assurance-emprunteur-immobilier-desktop.webp'); 
-    }
-  }
+

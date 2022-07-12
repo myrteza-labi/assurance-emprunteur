@@ -38,7 +38,7 @@
 
 
 /* D E S K T O P */
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1024px) and (max-width: 1280px){
     .ButtonModel1{
         margin-top: 20px; 
         margin-bottom: 20px; 
@@ -46,3 +46,12 @@
         font-size: 16px; 
     }
 }
+
+@media screen and (min-width: 1280px){
+    .ButtonModel1{
+        margin-top: 30px; 
+        margin-bottom: 30px; 
+        padding: 18px 22px ; 
+        font-size: 16px; 
+    }
+  }

@@ -15,6 +15,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,20 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/personnel": [
+    "/compagnie-assurance": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/personnel.js"
-    ],
-    "/professionnel": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/professionnel.js"
-    ],
-    "/rachat": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/rachat.js"
+      "static/chunks/pages/compagnie-assurance.js"
     ]
   },
   "ampFirstPages": []

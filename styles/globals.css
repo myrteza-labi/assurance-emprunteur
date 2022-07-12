@@ -6,12 +6,16 @@
 }
 
 button:hover {
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer; 
 }
 
 img {
@@ -27,6 +31,11 @@ ul {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  min-height: 250px;
+}
+
+.mainImageHeaderPage2 {
+  background-image: url("/small-assurance-emprunteur-immobilier.webp");
 }
 
 /* header assurance */
@@ -113,14 +122,6 @@ ul {
   background-image: url("/assurance-emprunt-rachat-credit.webp");
 }
 
-.mainImageHeaderGuide {
-  background-image: url("/assurance-emprunteur-guide.webp");
-}
-
-.mainImageHeaderDossier {
-  background-image: url("/assurance-emprunteur-dossier.webp");
-}
-
 /* Header dossier et blog/guide */
 .mainImageHeaderGuide {
   background-image: url("/assurance-emprunteur-guide.webp");
@@ -130,10 +131,23 @@ ul {
   background-image: url("/assurance-emprunteur-dossier.webp");
 }
 
+/* T A B L E T */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .mainImageHeader {
+    min-height: 350px;
+  }
+}
+
+
 
 /* D E S K T O P */
-
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1024px)  and (max-width: 1280px){
+  .mainImageHeader {
+    min-height: 500px;
+  }
+  .mainImageHeaderPage2 {
+    background-image: url("/assurance-emprunteur-immobilier-desktop.webp");
+  }
   .mainImageHeaderEmprunt {
     background-image: url("/emprunt-desktop.webp");
   }
@@ -193,5 +207,95 @@ ul {
   }
   .mainImageHeaderPersonnel {
     background-image: url("/assurance-emprunt-personnel-desktop.webp");
+  }
+  .mainImageHeaderRachat {
+    background-image: url("/assurance-emprunt-rachat-credit-desktop.webp");
+  }
+  .mainImageHeaderBancaire {
+    background-image: url("/assurance-emprunt-banque-desktop.webp");
+  }
+  .mainImageHeaderHabitat {
+    background-image: url("/assurance-emprunt-immobilier-desktop.webp");
+  }
+}
+
+
+/* L A R G E  S C R E E N */
+@media screen and (min-width: 1280px){
+  
+  .mainImageHeader {
+    min-height: 800px;
+  }
+  .mainImageHeaderPage2 {
+    background-image: url("/assurance-emprunteur-immobilier-desktop.webp");
+  }
+  .mainImageHeaderEmprunt {
+    background-image: url("/emprunt-desktop.webp");
+  }
+  .mainImageHeaderGuide {
+    background-image: url("/assurance-emprunteur-guide-desktop.webp");
+  }
+  .mainImageHeaderDossier {
+    background-image: url("/assurance-emprunteur-dossier-desktop.webp");
+  }
+  .mainImageHeaderApril {
+    background-image: url("/assurance-emprunteur-april-desktop.webp");
+  }
+  .mainImageHeaderAllianz {
+    background-image: url("/assurance-emprunteur-allianz-desktop.webp");
+  }
+  .mainImageHeaderAlptis {
+    background-image: url("/assurance-emprunteur-alptis-desktop.webp");
+  }
+  .mainImageHeaderGenerali {
+    background-image: url("/assurance-emprunteur-generali-desktop.webp");
+  }
+  .mainImageHeaderSwisslife {
+    background-image: url("/assurance-emprunteur-swisslife-desktop.webp");
+  }
+  .mainImageHeaderUgip {
+    background-image: url("/assurance-emprunteur-ugip-desktop.webp");
+  }
+  .mainImageHeaderRisqueAggrave {
+    background-image: url("/assurance-emprunteur-risque-aggrave-desktop.webp");
+  }
+  .mainImageHeaderSante {
+    background-image: url("/assurance-emprunteur-risque-sante-desktop.webp");
+  }
+  .mainImageHeaderCancer {
+    background-image: url("/assurance-emprunteur-cancer-desktop.webp");
+  }
+  .mainImageHeaderAffection {
+    background-image: url("/assurance-emprunteur-affection-desktop.webp");
+  }
+  .mainImageHeaderCrohn {
+    background-image: url("/assurance-emprunteur-crohn-desktop.webp");
+  }
+  .mainImageHeaderHypertenstion {
+    background-image: url("/assurance-emprunteur-hypertension-desktop.webp");
+  }
+  .mainImageHeaderSenior {
+    background-image: url("/assurance-emprunteur-senior-desktop.webp");
+  }
+  .mainImageHeaderSport {
+    background-image: url("/assurance-emprunteur-sport-desktop.webp");
+  }
+  .mainImageHeaderMetier {
+    background-image: url("/assurance-emprunteur-metier-desktop.webp");
+  }
+  .mainImageHeaderProfessionnel {
+    background-image: url("/assurance-emprunt-professionnel-desktop.webp");
+  }
+  .mainImageHeaderPersonnel {
+    background-image: url("/assurance-emprunt-personnel-desktop.webp");
+  }
+  .mainImageHeaderRachat {
+    background-image: url("/assurance-emprunt-rachat-credit-desktop.webp");
+  }
+  .mainImageHeaderBancaire {
+    background-image: url("/assurance-emprunt-banque-desktop.webp");
+  }
+  .mainImageHeaderHabitat {
+    background-image: url("/assurance-emprunt-immobilier-desktop.webp");
   }
 }

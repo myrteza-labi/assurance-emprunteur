@@ -299,7 +299,7 @@
 
 
 /* D E S K T O P */
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1024px) and (max-width: 1280px){
     .desktopNavbar {
         display: flex;
         align-items: center; 
@@ -381,3 +381,86 @@
     }
     
 }
+
+@media screen and (min-width: 1280px){
+    .desktopNavbar {
+        display: flex;
+        align-items: center; 
+        justify-content: space-between; 
+        padding: 20px 20px; 
+        background-color: #fff; 
+
+    }
+    .desktopItemsNavbarContainer {
+        display: flex; 
+    }
+    .oneMobileMenuItem {
+        display: flex; 
+        align-items: center; 
+        justify-content: space-between;
+        border-bottom: none; 
+        padding: 0 35px 0 0; 
+
+    }
+    .navbarLogoMobile {
+        width: 320px; 
+    }
+    .textMainImageMobileOne {
+        font-size:60px;
+    }
+
+    .footerThemeContainer {
+        display: flex;
+        justify-content: space-between; 
+    }
+    .footerLinkArrowMobile {
+        display: none; 
+    }
+    .footerLinkAndArrow{
+        margin-bottom: 30px; 
+    }
+
+    .sectionMainImageMobile {
+        min-height: 400px; 
+    }
+    .navbarLogoMobile {
+        width: 300px; 
+    }
+    .articleParagrapheMobile {
+        font-size: 16px; 
+    }
+    .themeSectionMobile {
+        display: flex; 
+        justify-content: space-between; 
+        padding: 10px  30px; 
+    }
+    .articleTitleMobile {
+        font-size: 20px; 
+    }
+    .simpleTextMobileH2{
+        font-size: 46px; 
+    }
+    .simpleTextParagraphe{
+        font-size: 16px; 
+    }
+    .itemMobileText {
+        font-size: 18px; 
+    }
+    .itemThemeBar{
+        font-size: 35px; 
+        font-weight: 300; 
+    }
+    .themeTitleMobile {
+        font-weight: 600; 
+    }
+    .advertiseButtonMobile{
+        font-size: 20px; 
+        width: 200px; 
+        font-weight: 700; 
+    }
+    .sectionMainImageMobile {
+        min-height: 600px; 
+        background-image: url('/assurance-emprunteur-accueil-desktop.webp'); 
+    }
+    
+  }

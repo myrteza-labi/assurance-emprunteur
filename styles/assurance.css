@@ -88,3 +88,18 @@
         font-size: 18px;
     }
 }
+
+
+/* D E S K T O P */
+
+@media screen and (min-width: 1024px) and (max-width: 1280px){
+    .compagnieAssurance, .pageGenerees {
+        padding: 70px; 
+    }
+  }
+
+  @media screen and (min-width: 1280px){
+    .compagnieAssurance, .pageGenerees {
+        padding: 80px; 
+    }
+  }
